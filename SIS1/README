@@ -1,0 +1,84 @@
+Report on Video Games & Player Engagement Analysis:videogames_report.md
+# Video Games & Player Engagement Analysis Report
+
+## 1. Introduction & Summary
+
+This report summarizes the analysis performed on video game data collected from the RAWG API and Wikipedia. The primary goal was to explore relationships between game ratings, community engagement (number of ratings), Metacritic scores, playtime, genres, platforms, and release dates. The analysis involved data collection, cleaning, merging, exploratory data analysis (EDA), and visualization. Key findings indicate a generally high rating distribution for the sampled games, with weak correlations between rating and engagement metrics. Adventure and Action genres dominate the analyzed dataset.
+
+## 2. Data Sources & Collection
+
+Two primary data sources were utilized:
+
+1.  **RAWG Video Games Database API:**
+    * Used to collect metadata for 40 highly-rated games released between 2020 and 2024.
+    * Fields collected: `name`, `rating`, `ratings_count`, `released`, `metacritic`, `genres`, `playtime`, `platforms`.
+    * API Endpoint: `https://api.rawg.io/api/games`
+    * Parameters: Ordered by `-rating`, `dates=2020-01-01,2024-12-31`, `page_size=40`.
+
+2.  **Wikipedia - "List of best-selling video games":**
+    * Web scraping was performed on the table listing best-selling games.
+    * Fields scraped: `game_name`, `sales_millions`, `developer`, `release_year`.
+    * URL: `https://en.wikipedia.org/wiki/List_of_best-selling_video_games`
+    * The top 40 rows were extracted.
+
+## 3. Data Cleaning & Merging
+
+* **API Data (`df_api_clean`):**
+    * Missing `metacritic` scores were imputed using the median value (89.5).
+    * Missing `playtime` values were filled with 0.
+    * `released` date strings were converted to datetime objects, and `release_year` was extracted.
+    * Duplicate games based on `name` were removed.
+* **Scraped Data (`df_scraped_clean`):**
+    * `sales_millions` were extracted as numeric values.
+    * `release_year` was extracted as a numeric value (4-digit year).
+    * Rows with missing `sales_millions` or `release_year` were dropped.
+* **Merging (`df_analysis`):**
+    * Both dataframes were normalized by converting game names to lowercase (`name_normalized`).
+    * An inner join was attempted on `name_normalized`.
+    * **Fallback:** Since the inner merge resulted in fewer than 10 matched games (likely due to name variations), the analysis proceeded primarily using the cleaned API data (`df_api_clean`). A *synthetic* `sales_millions` column was created by dividing `ratings_count` by 10,000 (and capping at 100) to enable visualizations involving sales figures.
+* **Final Dataset:** The analysis dataset (`df_analysis`) contained 40 unique games primarily sourced from the API.
+
+## 4. Exploratory Data Analysis & Key Findings
+
+* **Dataset Overview:**
+    * Total Games Analyzed: 40
+    * Average Rating: 4.63 (out of 5)
+    * Average Ratings Count: 103
+* **Rating Distribution:**
+    * Most games in the sample have high ratings, clustered between 4.5 and 4.9. * **Rating vs. Engagement:**
+    * A scatter plot showed no strong linear relationship between game `rating` and `ratings_count`. Some highly-rated games have very few ratings in this dataset.
+    * Correlation coefficient (Rating vs. Ratings Count): 0.072 (very weak positive correlation).
+* **Correlations:**
+    * A heatmap revealed correlations between numeric features:
+        * `rating` vs. `metacritic`: 0.275 (weak positive correlation)
+        * `rating` vs. `playtime`: -0.119 (very weak negative correlation)
+        * `ratings_count` vs. `metacritic`: 0.231 (weak positive correlation)
+        * Other correlations were generally weak. * **Top Rated Games:**
+    * The highest-rated game in the dataset is "Winter Memories" (Rating: 4.83, Ratings Count: 6).
+    * Other top-rated games include "Sonic Triple Trouble 16-Bit", "No Case Should Remain Unsolved", "Hellversus", and "Persona 5 Royal".
+* **Genre Popularity:**
+    * The most frequent genres (based on exploded genre lists) in the dataset are: Adventure (18), Action (17), Indie (12), Casual (9), RPG (9).
+* **Platform Distribution:**
+    * PC is the most common platform (75 games when exploded), followed by PlayStation 4 (25), macOS (22), PlayStation 5 (24), and Nintendo Switch (19). Treemaps and sunburst charts illustrated genre distribution across platforms.
+* **Release Trend:**
+    * The number of games released per year in this sample peaked around 2020-2022, with fewer games from 2023-2024 included in this specific API pull. 
+## 5. Limitations
+
+* **Sampling Bias:** The API data was limited to 40 games ordered by rating and released between 2020-2024, biasing the sample towards recent, highly-rated games.
+* **Merge Issues:** Difficulty in merging API and Wikipedia data due to name variations limited the integration of actual sales data. The synthetic sales data is a rough proxy based on rating counts.
+* **Low Engagement Data:** Many top-rated games had very low `ratings_count`, making it difficult to draw strong conclusions about the relationship between perceived quality and community size for these specific titles.
+* **Data Cleaning:** Imputation (Metacritic median) and filling missing playtime with 0 are necessary but introduce approximations. Genre and platform handling (comma-separated strings) requires splitting for detailed analysis.
+
+## 6. Conclusions & Next Steps
+
+* The analyzed sample of recent, highly-rated games shows a strong skew towards positive ratings.
+* There's only a weak correlation between user ratings (RAWG) and Metacritic scores, and a very weak correlation between ratings and the number of ratings within this specific dataset.
+* Adventure and Action are the dominant genres. PC is the most represented platform.
+
+**Suggested Next Steps:**
+
+* Implement fuzzy matching or use external game IDs to improve the merge rate between API and scraped data.
+* Expand data collection using API pagination to get a larger, potentially less biased sample.
+* Incorporate more robust sales data or other engagement metrics (e.g., player counts from Steam API if feasible).
+* Perform more granular analysis within specific genres or platforms.
+* Analyze playtime data more deeply if available and reliable.
