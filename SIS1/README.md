@@ -1,4 +1,3 @@
-README for Video Game Analysis Project:README.md
 # Video Games & Player Engagement Analysis
 
 ## Project Overview
@@ -43,8 +42,6 @@ This project analyzes video game data to explore relationships between game rati
 * The highest-rated game in the dataset is "Winter Memories" (Rating 4.83, 6 ratings).
 
 ## Visualizations Generated
-
-*(Note: The actual image files are saved separately during the notebook execution: `visualization_1_ratings.png`, `visualization_2_top_games.png`, `visualization_3_correlation.png`, `visualization_4_timeline.png`, plus Plotly interactive charts)*
 
 * Distribution of Game Ratings & Rating vs Community Engagement 
 * Top 10 Highest Rated Games 
