@@ -3,7 +3,7 @@
 ./.vscode
 ./.idea
 .env
-./data/
-./logs/
+./data
+./logs
 ./plugins/
 
