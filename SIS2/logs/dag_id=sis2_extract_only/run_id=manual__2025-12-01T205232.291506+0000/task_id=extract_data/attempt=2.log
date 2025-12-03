@@ -1,0 +1,54 @@
+{"timestamp":"2025-12-01T20:53:48.105506","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-12-01T20:53:48.106556","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_sis2.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-01T20:53:49.212530Z","level":"error","event":"2025-12-01 20:53:49,211 INFO sis2_etl ==================================================","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T20:53:49.213469Z","level":"error","event":"2025-12-01 20:53:49,212 INFO sis2_etl Starting extraction from Ozon.kz...","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T20:53:49.212531","level":"info","event":"==================================================","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T20:53:49.213155","level":"info","event":"Starting extraction from Ozon.kz...","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T20:53:49.213856","level":"info","event":"==================================================","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T20:53:49.215167Z","level":"error","event":"2025-12-01 20:53:49,213 INFO sis2_etl ==================================================","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T20:53:49.215449Z","level":"error","event":"2025-12-01 20:53:49,214 INFO sis2_etl Initializing undetected ChromeDriver...","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T20:53:49.214535","level":"info","event":"Initializing undetected ChromeDriver...","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T20:53:51.613087","level":"info","event":"patching driver executable /home/airflow/.local/share/undetected_chromedriver/undetected_chromedriver","logger":"undetected_chromedriver.patcher"}
+{"timestamp":"2025-12-01T20:53:52.179418","level":"info","event":"setting properties for headless","logger":"uc"}
+{"timestamp":"2025-12-01T20:53:52.180195Z","level":"error","event":"2025-12-01 20:53:52,179 INFO sis2_etl Navigating to URL...","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T20:53:52.180189","level":"info","event":"Navigating to URL...","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T20:53:53.348821Z","level":"error","event":"2025-12-01 20:53:53,343 INFO sis2_etl Waiting for page to load (15 seconds)...","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T20:53:53.348836","level":"info","event":"Waiting for page to load (15 seconds)...","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T20:54:08.365990Z","level":"error","event":"2025-12-01 20:54:08,364 INFO sis2_etl Current URL: https://ozon.kz/category/smartfony-15502/apple-26303000/?brand_was_predicted=true&category_was_predicted=true&deny_category_prediction=true&from_global=true&text=iphone&__rr=1","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T20:54:08.366075","level":"info","event":"Current URL: https://ozon.kz/category/smartfony-15502/apple-26303000/?brand_was_predicted=true&category_was_predicted=true&deny_category_prediction=true&from_global=true&text=iphone&__rr=1","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T20:54:08.378428Z","level":"error","event":"2025-12-01 20:54:08,377 INFO sis2_etl Page title: Доступ ограничен","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T20:54:08.378387","level":"info","event":"Page title: Доступ ограничен","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T20:54:08.398476Z","level":"error","event":"2025-12-01 20:54:08,397 INFO sis2_etl Scrolling page...","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T20:54:08.398429","level":"info","event":"Scrolling page...","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T20:54:12.420828Z","level":"error","event":"2025-12-01 20:54:12,419 INFO sis2_etl Looking for products...","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T20:54:12.420819","level":"info","event":"Looking for products...","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T20:54:32.435380Z","level":"error","event":"2025-12-01 20:54:32,434 WARNING sis2_etl Main selector failed, trying backup...","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T20:54:32.435419","level":"warning","event":"Main selector failed, trying backup...","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T20:54:32.458266Z","level":"error","event":"2025-12-01 20:54:32,457 ERROR sis2_etl ❌ NO PRODUCTS FOUND!","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T20:54:32.458242","level":"error","event":"❌ NO PRODUCTS FOUND!","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T20:54:32.623735Z","level":"error","event":"2025-12-01 20:54:32,623 ERROR sis2_etl Screenshot saved: /opt/airflow/data/screenshot_20251201_205432.png","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T20:54:32.649513Z","level":"error","event":"2025-12-01 20:54:32,633 ERROR sis2_etl HTML saved: /opt/airflow/data/page_20251201_205432.html","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T20:54:32.650036Z","level":"error","event":"2025-12-01 20:54:32,643 ERROR sis2_etl ==================================================","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T20:54:32.650427Z","level":"error","event":"2025-12-01 20:54:32,644 ERROR sis2_etl ❌ EXTRACTION FAILED: No products found. Page title: Доступ ограничен","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T20:54:32.650811Z","level":"error","event":"2025-12-01 20:54:32,644 ERROR sis2_etl ==================================================","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T20:54:32.623711","level":"error","event":"Screenshot saved: /opt/airflow/data/screenshot_20251201_205432.png","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T20:54:32.634029","level":"error","event":"HTML saved: /opt/airflow/data/page_20251201_205432.html","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T20:54:32.644115","level":"error","event":"==================================================","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T20:54:32.644732","level":"error","event":"❌ EXTRACTION FAILED: No products found. Page title: Доступ ограничен","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T20:54:32.645279","level":"error","event":"==================================================","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T20:54:32.653660Z","level":"error","event":"2025-12-01 20:54:32,650 ERROR sis2_etl Traceback (most recent call last):","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T20:54:32.654105Z","level":"error","event":"  File \"/opt/airflow/dags/etl_sis2.py\", line 132, in extract_data","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T20:54:32.654526Z","level":"error","event":"    raise Exception(f\"No products found. Page title: {driver.title}\")","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T20:54:32.654962Z","level":"error","event":"Exception: No products found. Page title: Доступ ограничен","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T20:54:32.655364Z","level":"error","event":"","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T20:54:32.651505","level":"error","event":"Traceback (most recent call last):\n  File \"/opt/airflow/dags/etl_sis2.py\", line 132, in extract_data\n    raise Exception(f\"No products found. Page title: {driver.title}\")\nException: No products found. Page title: Доступ ограничен\n","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T20:54:32.661888Z","level":"error","event":"2025-12-01 20:54:32,661 ERROR sis2_etl Final URL: https://ozon.kz/category/smartfony-15502/apple-26303000/?brand_was_predicted=true&category_was_predicted=true&deny_category_prediction=true&from_global=true&text=iphone&__rr=1","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T20:54:32.661840","level":"error","event":"Final URL: https://ozon.kz/category/smartfony-15502/apple-26303000/?brand_was_predicted=true&category_was_predicted=true&deny_category_prediction=true&from_global=true&text=iphone&__rr=1","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T20:54:32.671881Z","level":"error","event":"2025-12-01 20:54:32,671 ERROR sis2_etl Final title: Доступ ограничен","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T20:54:32.671836","level":"error","event":"Final title: Доступ ограничен","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T20:54:32.831687Z","level":"error","event":"2025-12-01 20:54:32,830 INFO sis2_etl Browser closed","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T20:54:32.831643","level":"info","event":"Browser closed","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T20:54:32.832077","level":"error","event":"Task failed with exception","logger":"task","error_detail":[{"exc_type":"Exception","exc_value":"No products found. Page title: Доступ ограничен","exc_notes":[],"syntax_error":null,"is_cause":false,"frames":[{"filename":"/home/airflow/.local/lib/python3.12/site-packages/airflow/sdk/execution_time/task_runner.py","lineno":920,"name":"run"},{"filename":"/home/airflow/.local/lib/python3.12/site-packages/airflow/sdk/execution_time/task_runner.py","lineno":1215,"name":"_execute_task"},{"filename":"/home/airflow/.local/lib/python3.12/site-packages/airflow/sdk/bases/operator.py","lineno":397,"name":"wrapper"},{"filename":"/home/airflow/.local/lib/python3.12/site-packages/airflow/providers/standard/operators/python.py","lineno":216,"name":"execute"},{"filename":"/home/airflow/.local/lib/python3.12/site-packages/airflow/providers/standard/operators/python.py","lineno":239,"name":"execute_callable"},{"filename":"/home/airflow/.local/lib/python3.12/site-packages/airflow/sdk/execution_time/callback_runner.py","lineno":81,"name":"run"},{"filename":"/opt/airflow/dags/etl_sis2.py","lineno":132,"name":"extract_data"}],"is_group":false,"exceptions":[]}]}
+{"timestamp":"2025-12-01T20:54:33.231934Z","level":"error","event":"2025-12-01 20:54:33,230 INFO sis2_etl Sent failure alert to Telegram.","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T20:54:33.231917","level":"info","event":"Sent failure alert to Telegram.","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T20:54:33.232845","level":"info","event":"ensuring close","logger":"uc"}

@@ -1,0 +1,9 @@
+{"timestamp":"2025-12-03T21:35:01.605098","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-12-03T21:35:01.605820","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_sis2.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-03T21:35:02.620027Z","level":"info","event":"Parsing page 1: https://www.euronews.com/news/asia?page=1","chan":"stdout","logger":"task"}
+{"timestamp":"2025-12-03T21:35:11.052132Z","level":"info","event":"Parsing page 2: https://www.euronews.com/news/asia?page=2","chan":"stdout","logger":"task"}
+{"timestamp":"2025-12-03T21:35:15.103808Z","level":"info","event":"Parsing page 3: https://www.euronews.com/news/asia?page=3","chan":"stdout","logger":"task"}
+{"timestamp":"2025-12-03T21:35:18.945688Z","level":"info","event":"Parsing page 4: https://www.euronews.com/news/asia?page=4","chan":"stdout","logger":"task"}
+{"timestamp":"2025-12-03T21:35:23.432278Z","level":"info","event":"Parsing page 5: https://www.euronews.com/news/asia?page=5","chan":"stdout","logger":"task"}
+{"timestamp":"2025-12-03T21:35:27.291273Z","level":"info","event":"Saved 135 records to /opt/airflow/data/euronews_asia.csv","chan":"stdout","logger":"task"}
+{"timestamp":"2025-12-03T21:35:27.300059","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}

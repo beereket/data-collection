@@ -1,0 +1,59 @@
+{"timestamp":"2025-12-01T18:59:53.461103","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-12-01T18:59:53.461889","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_sis2.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-01T18:59:54.363892Z","level":"error","event":"2025-12-01 18:59:54,362 INFO sis2_etl Starting data extraction from Ozon.kz...","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T18:59:54.363863","level":"info","event":"Starting data extraction from Ozon.kz...","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T18:59:55.639928Z","level":"error","event":"2025-12-01 18:59:55,638 INFO sis2_etl Using system ChromeDriver","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T18:59:55.639933","level":"info","event":"Using system ChromeDriver","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T18:59:56.446706Z","level":"error","event":"2025-12-01 18:59:56,445 INFO sis2_etl Navigated to: https://ozon.kz/category/smartfony-15502/apple-26303000/?brand_was_predicted=true&category_was_predicted=true&deny_category_prediction=true&from_global=true&text=iphone","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T18:59:56.446695","level":"info","event":"Navigated to: https://ozon.kz/category/smartfony-15502/apple-26303000/?brand_was_predicted=true&category_was_predicted=true&deny_category_prediction=true&from_global=true&text=iphone","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T19:00:17.095400Z","level":"error","event":"2025-12-01 19:00:17,086 ERROR sis2_etl Error during extraction: Message:","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.096713Z","level":"error","event":"Stacktrace:","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.097770Z","level":"error","event":"#0 0x5558526d54ca <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.098800Z","level":"error","event":"#1 0x555852123e4b <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.099898Z","level":"error","event":"#2 0x555852176814 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.100993Z","level":"error","event":"#3 0x555852176a51 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.102135Z","level":"error","event":"#4 0x5558521c5a44 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.103521Z","level":"error","event":"#5 0x5558521c2df7 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.104864Z","level":"error","event":"#6 0x555852168c2a <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.106134Z","level":"error","event":"#7 0x555852169931 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.107201Z","level":"error","event":"#8 0x55585269bcf9 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.108974Z","level":"error","event":"#9 0x55585269ecdc <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.110206Z","level":"error","event":"#10 0x555852684f79 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.111564Z","level":"error","event":"#11 0x55585269f8b5 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.113454Z","level":"error","event":"#12 0x55585266c9c3 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.115694Z","level":"error","event":"#13 0x5558526c2228 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.116851Z","level":"error","event":"#14 0x5558526c2403 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.119939Z","level":"error","event":"#15 0x5558526d4463 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.121343Z","level":"error","event":"#16 0x7f10464711f5 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.122686Z","level":"error","event":"","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.124584Z","level":"error","event":"2025-12-01 19:00:17,111 ERROR sis2_etl Traceback (most recent call last):","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.126128Z","level":"error","event":"  File \"/opt/airflow/dags/etl_sis2.py\", line 118, in extract_data","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.127300Z","level":"error","event":"    wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, 'div.t2i_24')))","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.128488Z","level":"error","event":"  File \"/home/airflow/.local/lib/python3.12/site-packages/selenium/webdriver/support/wait.py\", line 138, in until","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.130690Z","level":"error","event":"    raise TimeoutException(message, screen, stacktrace)","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.132719Z","level":"error","event":"selenium.common.exceptions.TimeoutException: Message:","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.134031Z","level":"error","event":"Stacktrace:","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.135310Z","level":"error","event":"#0 0x5558526d54ca <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.136598Z","level":"error","event":"#1 0x555852123e4b <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.138043Z","level":"error","event":"#2 0x555852176814 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.139240Z","level":"error","event":"#3 0x555852176a51 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.140214Z","level":"error","event":"#4 0x5558521c5a44 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.141121Z","level":"error","event":"#5 0x5558521c2df7 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.141940Z","level":"error","event":"#6 0x555852168c2a <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.142999Z","level":"error","event":"#7 0x555852169931 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.144258Z","level":"error","event":"#8 0x55585269bcf9 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.146010Z","level":"error","event":"#9 0x55585269ecdc <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.147389Z","level":"error","event":"#10 0x555852684f79 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.148812Z","level":"error","event":"#11 0x55585269f8b5 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.150037Z","level":"error","event":"#12 0x55585266c9c3 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.151340Z","level":"error","event":"#13 0x5558526c2228 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.153135Z","level":"error","event":"#14 0x5558526c2403 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.155285Z","level":"error","event":"#15 0x5558526d4463 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.160051Z","level":"error","event":"#16 0x7f10464711f5 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.164050Z","level":"error","event":"","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.167499Z","level":"error","event":"","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.095392","level":"error","event":"Error during extraction: Message: \nStacktrace:\n#0 0x5558526d54ca <unknown>\n#1 0x555852123e4b <unknown>\n#2 0x555852176814 <unknown>\n#3 0x555852176a51 <unknown>\n#4 0x5558521c5a44 <unknown>\n#5 0x5558521c2df7 <unknown>\n#6 0x555852168c2a <unknown>\n#7 0x555852169931 <unknown>\n#8 0x55585269bcf9 <unknown>\n#9 0x55585269ecdc <unknown>\n#10 0x555852684f79 <unknown>\n#11 0x55585269f8b5 <unknown>\n#12 0x55585266c9c3 <unknown>\n#13 0x5558526c2228 <unknown>\n#14 0x5558526c2403 <unknown>\n#15 0x5558526d4463 <unknown>\n#16 0x7f10464711f5 <unknown>\n","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T19:00:17.113639","level":"error","event":"Traceback (most recent call last):\n  File \"/opt/airflow/dags/etl_sis2.py\", line 118, in extract_data\n    wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, 'div.t2i_24')))\n  File \"/home/airflow/.local/lib/python3.12/site-packages/selenium/webdriver/support/wait.py\", line 138, in until\n    raise TimeoutException(message, screen, stacktrace)\nselenium.common.exceptions.TimeoutException: Message: \nStacktrace:\n#0 0x5558526d54ca <unknown>\n#1 0x555852123e4b <unknown>\n#2 0x555852176814 <unknown>\n#3 0x555852176a51 <unknown>\n#4 0x5558521c5a44 <unknown>\n#5 0x5558521c2df7 <unknown>\n#6 0x555852168c2a <unknown>\n#7 0x555852169931 <unknown>\n#8 0x55585269bcf9 <unknown>\n#9 0x55585269ecdc <unknown>\n#10 0x555852684f79 <unknown>\n#11 0x55585269f8b5 <unknown>\n#12 0x55585266c9c3 <unknown>\n#13 0x5558526c2228 <unknown>\n#14 0x5558526c2403 <unknown>\n#15 0x5558526d4463 <unknown>\n#16 0x7f10464711f5 <unknown>\n\n","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T19:00:17.273501Z","level":"error","event":"2025-12-01 19:00:17,273 INFO sis2_etl WebDriver closed","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:00:17.273495","level":"info","event":"WebDriver closed","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T19:00:17.273686","level":"error","event":"Task failed with exception","logger":"task","error_detail":[{"exc_type":"TimeoutException","exc_value":"Message: \nStacktrace:\n#0 0x5558526d54ca <unknown>\n#1 0x555852123e4b <unknown>\n#2 0x555852176814 <unknown>\n#3 0x555852176a51 <unknown>\n#4 0x5558521c5a44 <unknown>\n#5 0x5558521c2df7 <unknown>\n#6 0x555852168c2a <unknown>\n#7 0x555852169931 <unknown>\n#8 0x55585269bcf9 <unknown>\n#9 0x55585269ecdc <unknown>\n#10 0x555852684f79 <unknown>\n#11 0x55585269f8b5 <unknown>\n#12 0x55585266c9c3 <unknown>\n#13 0x5558526c2228 <unknown>\n#14 0x5558526c2403 <unknown>\n#15 0x5558526d4463 <unknown>\n#16 0x7f10464711f5 <unknown>\n","exc_notes":[],"syntax_error":null,"is_cause":false,"frames":[{"filename":"/home/airflow/.local/lib/python3.12/site-packages/airflow/sdk/execution_time/task_runner.py","lineno":920,"name":"run"},{"filename":"/home/airflow/.local/lib/python3.12/site-packages/airflow/sdk/execution_time/task_runner.py","lineno":1215,"name":"_execute_task"},{"filename":"/home/airflow/.local/lib/python3.12/site-packages/airflow/sdk/bases/operator.py","lineno":397,"name":"wrapper"},{"filename":"/home/airflow/.local/lib/python3.12/site-packages/airflow/providers/standard/operators/python.py","lineno":216,"name":"execute"},{"filename":"/home/airflow/.local/lib/python3.12/site-packages/airflow/providers/standard/operators/python.py","lineno":239,"name":"execute_callable"},{"filename":"/home/airflow/.local/lib/python3.12/site-packages/airflow/sdk/execution_time/callback_runner.py","lineno":81,"name":"run"},{"filename":"/opt/airflow/dags/etl_sis2.py","lineno":118,"name":"extract_data"},{"filename":"/home/airflow/.local/lib/python3.12/site-packages/selenium/webdriver/support/wait.py","lineno":138,"name":"until"}],"is_group":false,"exceptions":[]}]}

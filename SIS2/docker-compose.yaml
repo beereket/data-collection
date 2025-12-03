@@ -1,0 +1,48 @@
+  version: '3.8'
+
+  x-airflow-common: &airflow-common
+    # Use a custom Dockerfile instead of base image
+    build:
+      context: .
+      dockerfile: Dockerfile
+    env_file:
+      - .env
+    volumes:
+      - ./data:/opt/airflow/data
+      - ./dags:/opt/airflow/dags
+      - ./logs:/opt/airflow/logs
+      - ./plugins:/opt/airflow/plugins
+      - ./requirements.txt:/opt/airflow/requirements.txt
+    networks:
+      - airflow_network
+    environment:
+      - AIRFLOW__CORE__LOAD_EXAMPLES=False
+    entrypoint: /bin/bash
+    command:
+      - -c
+      - |
+        pip install --no-cache-dir -r /opt/airflow/requirements.txt;
+        airflow standalone
+        playwright install 
+
+  services:
+    airflow_services:
+      <<: *airflow-common
+      container_name: airflow_services
+      ports:
+        - "8080:8080"
+      environment:
+      - AIRFLOW__WEBSERVER__DEFAULT_USER=admin
+      - AIRFLOW__WEBSERVER__DEFAULT_PASSWORD=admin123
+      healthcheck:
+        test: ["CMD-SHELL", "[ -f /opt/airflow/airflow-webserver.pid ]"]
+        interval: 30s
+        timeout: 10s
+        retries: 5
+      shm_size: '2gb'  # Important for Chrome
+      security_opt:
+        - seccomp:unconfined  # Helps with Chrome sandbox issues
+
+  networks:
+    airflow_network:
+      driver: bridge

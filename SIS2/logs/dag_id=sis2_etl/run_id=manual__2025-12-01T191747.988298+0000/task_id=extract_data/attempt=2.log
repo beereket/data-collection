@@ -1,0 +1,101 @@
+{"timestamp":"2025-12-01T19:20:41.777499","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-12-01T19:20:41.779043","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_sis2.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-01T19:20:42.861523Z","level":"error","event":"2025-12-01 19:20:42,860 INFO sis2_etl Starting data extraction from Ozon.kz...","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:20:42.861479","level":"info","event":"Starting data extraction from Ozon.kz...","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T19:20:43.473467Z","level":"error","event":"2025-12-01 19:20:43,472 INFO sis2_etl Using system ChromeDriver","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:20:43.473408","level":"info","event":"Using system ChromeDriver","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T19:20:43.475881Z","level":"error","event":"2025-12-01 19:20:43,475 INFO sis2_etl Attempting to navigate to: https://ozon.kz/category/smartfony-15502/apple-26303000/?brand_was_predicted=true&category_was_predicted=true&deny_category_prediction=true&from_global=true&text=iphone","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:20:43.475869","level":"info","event":"Attempting to navigate to: https://ozon.kz/category/smartfony-15502/apple-26303000/?brand_was_predicted=true&category_was_predicted=true&deny_category_prediction=true&from_global=true&text=iphone","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T19:20:44.349115Z","level":"error","event":"2025-12-01 19:20:44,348 INFO sis2_etl Page loaded, current URL: https://ozon.kz/category/smartfony-15502/apple-26303000/?brand_was_predicted=true&category_was_predicted=true&deny_category_prediction=true&from_global=true&text=iphone&__rr=1","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:20:44.349115","level":"info","event":"Page loaded, current URL: https://ozon.kz/category/smartfony-15502/apple-26303000/?brand_was_predicted=true&category_was_predicted=true&deny_category_prediction=true&from_global=true&text=iphone&__rr=1","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T19:20:44.359173Z","level":"error","event":"2025-12-01 19:20:44,358 INFO sis2_etl Page title: Antibot Challenge Page","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:20:44.359146","level":"info","event":"Page title: Antibot Challenge Page","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T19:20:44.359916","level":"info","event":"Trying selector: div.t2i_24","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T19:20:44.360897Z","level":"error","event":"2025-12-01 19:20:44,359 INFO sis2_etl Trying selector: div.t2i_24","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:15.450881Z","level":"error","event":"2025-12-01 19:21:15,450 WARNING sis2_etl Selector div.t2i_24 failed: Message:","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:15.451325Z","level":"error","event":"Stacktrace:","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:15.451735Z","level":"error","event":"#0 0x562bd70c24ca <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:15.452017Z","level":"error","event":"#1 0x562bd6b10e4b <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:15.452392Z","level":"error","event":"#2 0x562bd6b63814 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:15.452741Z","level":"error","event":"#3 0x562bd6b63a51 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:15.453040Z","level":"error","event":"#4 0x562bd6bb2a44 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:15.453403Z","level":"error","event":"#5 0x562bd6bafdf7 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:15.453726Z","level":"error","event":"#6 0x562bd6b55c2a <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:15.454031Z","level":"error","event":"#7 0x562bd6b56931 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:15.454313Z","level":"error","event":"#8 0x562bd7088cf9 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:15.454674Z","level":"error","event":"#9 0x562bd708bcdc <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:15.454922Z","level":"error","event":"#10 0x562bd7071f79 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:15.455211Z","level":"error","event":"#11 0x562bd708c8b5 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:15.455523Z","level":"error","event":"#12 0x562bd70599c3 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:15.455752Z","level":"error","event":"#13 0x562bd70af228 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:15.456166Z","level":"error","event":"#14 0x562bd70af403 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:15.456496Z","level":"error","event":"#15 0x562bd70c1463 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:15.456709Z","level":"error","event":"#16 0x7ff9b75211f5 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:15.456913Z","level":"error","event":"","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:15.457232Z","level":"error","event":"2025-12-01 19:21:15,450 INFO sis2_etl Trying selector: div[class*=\"t2i\"]","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:15.450842","level":"warning","event":"Selector div.t2i_24 failed: Message: \nStacktrace:\n#0 0x562bd70c24ca <unknown>\n#1 0x562bd6b10e4b <unknown>\n#2 0x562bd6b63814 <unknown>\n#3 0x562bd6b63a51 <unknown>\n#4 0x562bd6bb2a44 <unknown>\n#5 0x562bd6bafdf7 <unknown>\n#6 0x562bd6b55c2a <unknown>\n#7 0x562bd6b56931 <unknown>\n#8 0x562bd7088cf9 <unknown>\n#9 0x562bd708bcdc <unknown>\n#10 0x562bd7071f79 <unknown>\n#11 0x562bd708c8b5 <unknown>\n#12 0x562bd70599c3 <unknown>\n#13 0x562bd70af228 <unknown>\n#14 0x562bd70af403 <unknown>\n#15 0x562bd70c1463 <unknown>\n#16 0x7ff9b75211f5 <unknown>\n","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T19:21:15.451345","level":"info","event":"Trying selector: div[class*=\"t2i\"]","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T19:21:46.572742Z","level":"error","event":"2025-12-01 19:21:46,571 WARNING sis2_etl Selector div[class*=\"t2i\"] failed: Message:","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:46.574388Z","level":"error","event":"Stacktrace:","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:46.575747Z","level":"error","event":"#0 0x562bd70c24ca <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:46.576995Z","level":"error","event":"#1 0x562bd6b10e4b <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:46.578348Z","level":"error","event":"#2 0x562bd6b63814 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:46.579674Z","level":"error","event":"#3 0x562bd6b63a51 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:46.580898Z","level":"error","event":"#4 0x562bd6bb2a44 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:46.582117Z","level":"error","event":"#5 0x562bd6bafdf7 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:46.583401Z","level":"error","event":"#6 0x562bd6b55c2a <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:46.584694Z","level":"error","event":"#7 0x562bd6b56931 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:46.586124Z","level":"error","event":"#8 0x562bd7088cf9 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:46.587286Z","level":"error","event":"#9 0x562bd708bcdc <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:46.588615Z","level":"error","event":"#10 0x562bd7071f79 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:46.589822Z","level":"error","event":"#11 0x562bd708c8b5 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:46.591020Z","level":"error","event":"#12 0x562bd70599c3 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:46.592609Z","level":"error","event":"#13 0x562bd70af228 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:46.594088Z","level":"error","event":"#14 0x562bd70af403 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:46.595433Z","level":"error","event":"#15 0x562bd70c1463 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:46.596728Z","level":"error","event":"#16 0x7ff9b75211f5 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:46.598010Z","level":"error","event":"","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:46.599583Z","level":"error","event":"2025-12-01 19:21:46,572 INFO sis2_etl Trying selector: div[class*=\"tile\"]","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:21:46.572682","level":"warning","event":"Selector div[class*=\"t2i\"] failed: Message: \nStacktrace:\n#0 0x562bd70c24ca <unknown>\n#1 0x562bd6b10e4b <unknown>\n#2 0x562bd6b63814 <unknown>\n#3 0x562bd6b63a51 <unknown>\n#4 0x562bd6bb2a44 <unknown>\n#5 0x562bd6bafdf7 <unknown>\n#6 0x562bd6b55c2a <unknown>\n#7 0x562bd6b56931 <unknown>\n#8 0x562bd7088cf9 <unknown>\n#9 0x562bd708bcdc <unknown>\n#10 0x562bd7071f79 <unknown>\n#11 0x562bd708c8b5 <unknown>\n#12 0x562bd70599c3 <unknown>\n#13 0x562bd70af228 <unknown>\n#14 0x562bd70af403 <unknown>\n#15 0x562bd70c1463 <unknown>\n#16 0x7ff9b75211f5 <unknown>\n","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T19:21:46.574431","level":"info","event":"Trying selector: div[class*=\"tile\"]","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T19:22:17.668489Z","level":"error","event":"2025-12-01 19:22:17,667 WARNING sis2_etl Selector div[class*=\"tile\"] failed: Message:","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:22:17.668847Z","level":"error","event":"Stacktrace:","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:22:17.669175Z","level":"error","event":"#0 0x562bd70c24ca <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:22:17.669549Z","level":"error","event":"#1 0x562bd6b10e4b <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:22:17.669903Z","level":"error","event":"#2 0x562bd6b63814 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:22:17.670289Z","level":"error","event":"#3 0x562bd6b63a51 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:22:17.670627Z","level":"error","event":"#4 0x562bd6bb2a44 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:22:17.670928Z","level":"error","event":"#5 0x562bd6bafdf7 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:22:17.671298Z","level":"error","event":"#6 0x562bd6b55c2a <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:22:17.671601Z","level":"error","event":"#7 0x562bd6b56931 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:22:17.671920Z","level":"error","event":"#8 0x562bd7088cf9 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:22:17.672163Z","level":"error","event":"#9 0x562bd708bcdc <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:22:17.672420Z","level":"error","event":"#10 0x562bd7071f79 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:22:17.672678Z","level":"error","event":"#11 0x562bd708c8b5 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:22:17.673014Z","level":"error","event":"#12 0x562bd70599c3 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:22:17.673270Z","level":"error","event":"#13 0x562bd70af228 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:22:17.673545Z","level":"error","event":"#14 0x562bd70af403 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:22:17.673831Z","level":"error","event":"#15 0x562bd70c1463 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:22:17.674115Z","level":"error","event":"#16 0x7ff9b75211f5 <unknown>","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:22:17.674415Z","level":"error","event":"","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:22:17.668440","level":"warning","event":"Selector div[class*=\"tile\"] failed: Message: \nStacktrace:\n#0 0x562bd70c24ca <unknown>\n#1 0x562bd6b10e4b <unknown>\n#2 0x562bd6b63814 <unknown>\n#3 0x562bd6b63a51 <unknown>\n#4 0x562bd6bb2a44 <unknown>\n#5 0x562bd6bafdf7 <unknown>\n#6 0x562bd6b55c2a <unknown>\n#7 0x562bd6b56931 <unknown>\n#8 0x562bd7088cf9 <unknown>\n#9 0x562bd708bcdc <unknown>\n#10 0x562bd7071f79 <unknown>\n#11 0x562bd708c8b5 <unknown>\n#12 0x562bd70599c3 <unknown>\n#13 0x562bd70af228 <unknown>\n#14 0x562bd70af403 <unknown>\n#15 0x562bd70c1463 <unknown>\n#16 0x7ff9b75211f5 <unknown>\n","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T19:22:17.775975Z","level":"error","event":"2025-12-01 19:22:17,775 ERROR sis2_etl No items found. Screenshot saved to: /opt/airflow/data/debug_screenshot_20251201_192217.png","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:22:17.775974","level":"error","event":"No items found. Screenshot saved to: /opt/airflow/data/debug_screenshot_20251201_192217.png","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T19:22:17.785303Z","level":"error","event":"2025-12-01 19:22:17,784 ERROR sis2_etl Page source saved to: /opt/airflow/data/debug_page_source_20251201_192217.html","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:22:17.785808Z","level":"error","event":"2025-12-01 19:22:17,785 ERROR sis2_etl Error during extraction: Could not find product items on the page","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:22:17.785281","level":"error","event":"Page source saved to: /opt/airflow/data/debug_page_source_20251201_192217.html","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T19:22:17.785729","level":"error","event":"Error during extraction: Could not find product items on the page","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T19:22:17.790364Z","level":"error","event":"2025-12-01 19:22:17,789 ERROR sis2_etl Traceback (most recent call last):","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:22:17.790792Z","level":"error","event":"  File \"/opt/airflow/dags/etl_sis2.py\", line 169, in extract_data","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:22:17.791130Z","level":"error","event":"    raise Exception(\"Could not find product items on the page\")","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:22:17.791470Z","level":"error","event":"Exception: Could not find product items on the page","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:22:17.791872Z","level":"error","event":"","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:22:17.790358","level":"error","event":"Traceback (most recent call last):\n  File \"/opt/airflow/dags/etl_sis2.py\", line 169, in extract_data\n    raise Exception(\"Could not find product items on the page\")\nException: Could not find product items on the page\n","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T19:22:17.799467Z","level":"error","event":"2025-12-01 19:22:17,798 ERROR sis2_etl Current URL: https://ozon.kz/category/smartfony-15502/apple-26303000/?brand_was_predicted=true&category_was_predicted=true&deny_category_prediction=true&from_global=true&text=iphone&__rr=1","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:22:17.799440","level":"error","event":"Current URL: https://ozon.kz/category/smartfony-15502/apple-26303000/?brand_was_predicted=true&category_was_predicted=true&deny_category_prediction=true&from_global=true&text=iphone&__rr=1","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T19:22:17.807036Z","level":"error","event":"2025-12-01 19:22:17,806 ERROR sis2_etl Page title: Доступ ограничен","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:22:17.807037","level":"error","event":"Page title: Доступ ограничен","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T19:22:17.946427Z","level":"error","event":"2025-12-01 19:22:17,945 INFO sis2_etl WebDriver closed","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-01T19:22:17.946385","level":"info","event":"WebDriver closed","logger":"sis2_etl"}
+{"timestamp":"2025-12-01T19:22:17.946582","level":"error","event":"Task failed with exception","logger":"task","error_detail":[{"exc_type":"Exception","exc_value":"Could not find product items on the page","exc_notes":[],"syntax_error":null,"is_cause":false,"frames":[{"filename":"/home/airflow/.local/lib/python3.12/site-packages/airflow/sdk/execution_time/task_runner.py","lineno":920,"name":"run"},{"filename":"/home/airflow/.local/lib/python3.12/site-packages/airflow/sdk/execution_time/task_runner.py","lineno":1215,"name":"_execute_task"},{"filename":"/home/airflow/.local/lib/python3.12/site-packages/airflow/sdk/bases/operator.py","lineno":397,"name":"wrapper"},{"filename":"/home/airflow/.local/lib/python3.12/site-packages/airflow/providers/standard/operators/python.py","lineno":216,"name":"execute"},{"filename":"/home/airflow/.local/lib/python3.12/site-packages/airflow/providers/standard/operators/python.py","lineno":239,"name":"execute_callable"},{"filename":"/home/airflow/.local/lib/python3.12/site-packages/airflow/sdk/execution_time/callback_runner.py","lineno":81,"name":"run"},{"filename":"/opt/airflow/dags/etl_sis2.py","lineno":169,"name":"extract_data"}],"is_group":false,"exceptions":[]}]}
+{"timestamp":"2025-12-01T19:22:17.948478","level":"error","event":"Failed to run task callback","kind":"on_failure_callback","index":0,"callback":"<function task_fail_alert_telegram at 0x7f14ff929940>","logger":"task","error_detail":[{"exc_type":"KeyError","exc_value":"'execution_date'","exc_notes":[],"syntax_error":null,"is_cause":false,"frames":[{"filename":"/home/airflow/.local/lib/python3.12/site-packages/airflow/sdk/execution_time/task_runner.py","lineno":1152,"name":"_run_task_state_change_callbacks"},{"filename":"/home/airflow/.local/lib/python3.12/site-packages/airflow/sdk/execution_time/callback_runner.py","lineno":81,"name":"run"},{"filename":"/opt/airflow/dags/etl_sis2.py","lineno":46,"name":"task_fail_alert_telegram"}],"is_group":false,"exceptions":[]}]}

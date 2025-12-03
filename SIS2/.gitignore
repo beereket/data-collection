@@ -1,0 +1,9 @@
+./venv
+./dags/__pycache__
+./.vscode
+./.idea
+.env
+./data/
+./logs/
+./plugins/
+

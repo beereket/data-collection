@@ -1,0 +1,616 @@
+2025-12-01 18:23:10,929 INFO sis2_etl Sent failure alert to Telegram.
+2025-12-01 18:59:54,362 INFO sis2_etl Starting data extraction from Ozon.kz...
+2025-12-01 18:59:55,638 INFO sis2_etl Using system ChromeDriver
+2025-12-01 18:59:56,445 INFO sis2_etl Navigated to: https://ozon.kz/category/smartfony-15502/apple-26303000/?brand_was_predicted=true&category_was_predicted=true&deny_category_prediction=true&from_global=true&text=iphone
+2025-12-01 19:00:17,086 ERROR sis2_etl Error during extraction: Message: 
+Stacktrace:
+#0 0x5558526d54ca <unknown>
+#1 0x555852123e4b <unknown>
+#2 0x555852176814 <unknown>
+#3 0x555852176a51 <unknown>
+#4 0x5558521c5a44 <unknown>
+#5 0x5558521c2df7 <unknown>
+#6 0x555852168c2a <unknown>
+#7 0x555852169931 <unknown>
+#8 0x55585269bcf9 <unknown>
+#9 0x55585269ecdc <unknown>
+#10 0x555852684f79 <unknown>
+#11 0x55585269f8b5 <unknown>
+#12 0x55585266c9c3 <unknown>
+#13 0x5558526c2228 <unknown>
+#14 0x5558526c2403 <unknown>
+#15 0x5558526d4463 <unknown>
+#16 0x7f10464711f5 <unknown>
+
+2025-12-01 19:00:17,111 ERROR sis2_etl Traceback (most recent call last):
+  File "/opt/airflow/dags/etl_sis2.py", line 118, in extract_data
+    wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, 'div.t2i_24')))
+  File "/home/airflow/.local/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 138, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+#0 0x5558526d54ca <unknown>
+#1 0x555852123e4b <unknown>
+#2 0x555852176814 <unknown>
+#3 0x555852176a51 <unknown>
+#4 0x5558521c5a44 <unknown>
+#5 0x5558521c2df7 <unknown>
+#6 0x555852168c2a <unknown>
+#7 0x555852169931 <unknown>
+#8 0x55585269bcf9 <unknown>
+#9 0x55585269ecdc <unknown>
+#10 0x555852684f79 <unknown>
+#11 0x55585269f8b5 <unknown>
+#12 0x55585266c9c3 <unknown>
+#13 0x5558526c2228 <unknown>
+#14 0x5558526c2403 <unknown>
+#15 0x5558526d4463 <unknown>
+#16 0x7f10464711f5 <unknown>
+
+
+2025-12-01 19:00:17,273 INFO sis2_etl WebDriver closed
+2025-12-01 19:00:33,546 INFO sis2_etl Starting data extraction from Ozon.kz...
+2025-12-01 19:00:33,850 INFO sis2_etl Using system ChromeDriver
+2025-12-01 19:00:34,652 INFO sis2_etl Navigated to: https://ozon.kz/category/smartfony-15502/apple-26303000/?brand_was_predicted=true&category_was_predicted=true&deny_category_prediction=true&from_global=true&text=iphone
+2025-12-01 19:00:55,252 ERROR sis2_etl Error during extraction: Message: 
+Stacktrace:
+#0 0x557be11194ca <unknown>
+#1 0x557be0b67e4b <unknown>
+#2 0x557be0bba814 <unknown>
+#3 0x557be0bbaa51 <unknown>
+#4 0x557be0c09a44 <unknown>
+#5 0x557be0c06df7 <unknown>
+#6 0x557be0bacc2a <unknown>
+#7 0x557be0bad931 <unknown>
+#8 0x557be10dfcf9 <unknown>
+#9 0x557be10e2cdc <unknown>
+#10 0x557be10c8f79 <unknown>
+#11 0x557be10e38b5 <unknown>
+#12 0x557be10b09c3 <unknown>
+#13 0x557be1106228 <unknown>
+#14 0x557be1106403 <unknown>
+#15 0x557be1118463 <unknown>
+#16 0x7fdbb57e01f5 <unknown>
+
+2025-12-01 19:00:55,265 ERROR sis2_etl Traceback (most recent call last):
+  File "/opt/airflow/dags/etl_sis2.py", line 118, in extract_data
+    wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, 'div.t2i_24')))
+  File "/home/airflow/.local/lib/python3.12/site-packages/selenium/webdriver/support/wait.py", line 138, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+#0 0x557be11194ca <unknown>
+#1 0x557be0b67e4b <unknown>
+#2 0x557be0bba814 <unknown>
+#3 0x557be0bbaa51 <unknown>
+#4 0x557be0c09a44 <unknown>
+#5 0x557be0c06df7 <unknown>
+#6 0x557be0bacc2a <unknown>
+#7 0x557be0bad931 <unknown>
+#8 0x557be10dfcf9 <unknown>
+#9 0x557be10e2cdc <unknown>
+#10 0x557be10c8f79 <unknown>
+#11 0x557be10e38b5 <unknown>
+#12 0x557be10b09c3 <unknown>
+#13 0x557be1106228 <unknown>
+#14 0x557be1106403 <unknown>
+#15 0x557be1118463 <unknown>
+#16 0x7fdbb57e01f5 <unknown>
+
+
+2025-12-01 19:00:55,412 INFO sis2_etl WebDriver closed
+2025-12-01 19:18:16,970 INFO sis2_etl Starting data extraction from Ozon.kz...
+2025-12-01 19:18:58,531 INFO sis2_etl Using system ChromeDriver
+2025-12-01 19:18:58,572 INFO sis2_etl Attempting to navigate to: https://ozon.kz/category/smartfony-15502/apple-26303000/?brand_was_predicted=true&category_was_predicted=true&deny_category_prediction=true&from_global=true&text=iphone
+2025-12-01 19:19:00,611 INFO sis2_etl Page loaded, current URL: https://ozon.kz/category/smartfony-15502/apple-26303000/?brand_was_predicted=true&category_was_predicted=true&deny_category_prediction=true&from_global=true&text=iphone&__rr=1
+2025-12-01 19:19:00,622 INFO sis2_etl Page title: Antibot Challenge Page
+2025-12-01 19:19:00,623 INFO sis2_etl Trying selector: div.t2i_24
+2025-12-01 19:19:31,897 WARNING sis2_etl Selector div.t2i_24 failed: Message: 
+Stacktrace:
+#0 0x55f6d06554ca <unknown>
+#1 0x55f6d00a3e4b <unknown>
+#2 0x55f6d00f6814 <unknown>
+#3 0x55f6d00f6a51 <unknown>
+#4 0x55f6d0145a44 <unknown>
+#5 0x55f6d0142df7 <unknown>
+#6 0x55f6d00e8c2a <unknown>
+#7 0x55f6d00e9931 <unknown>
+#8 0x55f6d061bcf9 <unknown>
+#9 0x55f6d061ecdc <unknown>
+#10 0x55f6d0604f79 <unknown>
+#11 0x55f6d061f8b5 <unknown>
+#12 0x55f6d05ec9c3 <unknown>
+#13 0x55f6d0642228 <unknown>
+#14 0x55f6d0642403 <unknown>
+#15 0x55f6d0654463 <unknown>
+#16 0x7fbf8e6031f5 <unknown>
+
+2025-12-01 19:19:31,899 INFO sis2_etl Trying selector: div[class*="t2i"]
+2025-12-01 19:20:03,026 WARNING sis2_etl Selector div[class*="t2i"] failed: Message: 
+Stacktrace:
+#0 0x55f6d06554ca <unknown>
+#1 0x55f6d00a3e4b <unknown>
+#2 0x55f6d00f6814 <unknown>
+#3 0x55f6d00f6a51 <unknown>
+#4 0x55f6d0145a44 <unknown>
+#5 0x55f6d0142df7 <unknown>
+#6 0x55f6d00e8c2a <unknown>
+#7 0x55f6d00e9931 <unknown>
+#8 0x55f6d061bcf9 <unknown>
+#9 0x55f6d061ecdc <unknown>
+#10 0x55f6d0604f79 <unknown>
+#11 0x55f6d061f8b5 <unknown>
+#12 0x55f6d05ec9c3 <unknown>
+#13 0x55f6d0642228 <unknown>
+#14 0x55f6d0642403 <unknown>
+#15 0x55f6d0654463 <unknown>
+#16 0x7fbf8e6031f5 <unknown>
+
+2025-12-01 19:20:03,031 INFO sis2_etl Trying selector: div[class*="tile"]
+2025-12-01 19:20:34,206 WARNING sis2_etl Selector div[class*="tile"] failed: Message: 
+Stacktrace:
+#0 0x55f6d06554ca <unknown>
+#1 0x55f6d00a3e4b <unknown>
+#2 0x55f6d00f6814 <unknown>
+#3 0x55f6d00f6a51 <unknown>
+#4 0x55f6d0145a44 <unknown>
+#5 0x55f6d0142df7 <unknown>
+#6 0x55f6d00e8c2a <unknown>
+#7 0x55f6d00e9931 <unknown>
+#8 0x55f6d061bcf9 <unknown>
+#9 0x55f6d061ecdc <unknown>
+#10 0x55f6d0604f79 <unknown>
+#11 0x55f6d061f8b5 <unknown>
+#12 0x55f6d05ec9c3 <unknown>
+#13 0x55f6d0642228 <unknown>
+#14 0x55f6d0642403 <unknown>
+#15 0x55f6d0654463 <unknown>
+#16 0x7fbf8e6031f5 <unknown>
+
+2025-12-01 19:20:34,358 ERROR sis2_etl No items found. Screenshot saved to: /opt/airflow/data/debug_screenshot_20251201_192034.png
+2025-12-01 19:20:34,369 ERROR sis2_etl Page source saved to: /opt/airflow/data/debug_page_source_20251201_192034.html
+2025-12-01 19:20:34,370 ERROR sis2_etl Error during extraction: Could not find product items on the page
+2025-12-01 19:20:34,377 ERROR sis2_etl Traceback (most recent call last):
+  File "/opt/airflow/dags/etl_sis2.py", line 169, in extract_data
+    raise Exception("Could not find product items on the page")
+Exception: Could not find product items on the page
+
+2025-12-01 19:20:34,386 ERROR sis2_etl Current URL: https://ozon.kz/category/smartfony-15502/apple-26303000/?brand_was_predicted=true&category_was_predicted=true&deny_category_prediction=true&from_global=true&text=iphone&__rr=1
+2025-12-01 19:20:34,396 ERROR sis2_etl Page title: Доступ ограничен
+2025-12-01 19:20:34,575 INFO sis2_etl WebDriver closed
+2025-12-01 19:20:42,860 INFO sis2_etl Starting data extraction from Ozon.kz...
+2025-12-01 19:20:43,472 INFO sis2_etl Using system ChromeDriver
+2025-12-01 19:20:43,475 INFO sis2_etl Attempting to navigate to: https://ozon.kz/category/smartfony-15502/apple-26303000/?brand_was_predicted=true&category_was_predicted=true&deny_category_prediction=true&from_global=true&text=iphone
+2025-12-01 19:20:44,348 INFO sis2_etl Page loaded, current URL: https://ozon.kz/category/smartfony-15502/apple-26303000/?brand_was_predicted=true&category_was_predicted=true&deny_category_prediction=true&from_global=true&text=iphone&__rr=1
+2025-12-01 19:20:44,358 INFO sis2_etl Page title: Antibot Challenge Page
+2025-12-01 19:20:44,359 INFO sis2_etl Trying selector: div.t2i_24
+2025-12-01 19:21:15,450 WARNING sis2_etl Selector div.t2i_24 failed: Message: 
+Stacktrace:
+#0 0x562bd70c24ca <unknown>
+#1 0x562bd6b10e4b <unknown>
+#2 0x562bd6b63814 <unknown>
+#3 0x562bd6b63a51 <unknown>
+#4 0x562bd6bb2a44 <unknown>
+#5 0x562bd6bafdf7 <unknown>
+#6 0x562bd6b55c2a <unknown>
+#7 0x562bd6b56931 <unknown>
+#8 0x562bd7088cf9 <unknown>
+#9 0x562bd708bcdc <unknown>
+#10 0x562bd7071f79 <unknown>
+#11 0x562bd708c8b5 <unknown>
+#12 0x562bd70599c3 <unknown>
+#13 0x562bd70af228 <unknown>
+#14 0x562bd70af403 <unknown>
+#15 0x562bd70c1463 <unknown>
+#16 0x7ff9b75211f5 <unknown>
+
+2025-12-01 19:21:15,450 INFO sis2_etl Trying selector: div[class*="t2i"]
+2025-12-01 19:21:46,571 WARNING sis2_etl Selector div[class*="t2i"] failed: Message: 
+Stacktrace:
+#0 0x562bd70c24ca <unknown>
+#1 0x562bd6b10e4b <unknown>
+#2 0x562bd6b63814 <unknown>
+#3 0x562bd6b63a51 <unknown>
+#4 0x562bd6bb2a44 <unknown>
+#5 0x562bd6bafdf7 <unknown>
+#6 0x562bd6b55c2a <unknown>
+#7 0x562bd6b56931 <unknown>
+#8 0x562bd7088cf9 <unknown>
+#9 0x562bd708bcdc <unknown>
+#10 0x562bd7071f79 <unknown>
+#11 0x562bd708c8b5 <unknown>
+#12 0x562bd70599c3 <unknown>
+#13 0x562bd70af228 <unknown>
+#14 0x562bd70af403 <unknown>
+#15 0x562bd70c1463 <unknown>
+#16 0x7ff9b75211f5 <unknown>
+
+2025-12-01 19:21:46,572 INFO sis2_etl Trying selector: div[class*="tile"]
+2025-12-01 19:22:17,667 WARNING sis2_etl Selector div[class*="tile"] failed: Message: 
+Stacktrace:
+#0 0x562bd70c24ca <unknown>
+#1 0x562bd6b10e4b <unknown>
+#2 0x562bd6b63814 <unknown>
+#3 0x562bd6b63a51 <unknown>
+#4 0x562bd6bb2a44 <unknown>
+#5 0x562bd6bafdf7 <unknown>
+#6 0x562bd6b55c2a <unknown>
+#7 0x562bd6b56931 <unknown>
+#8 0x562bd7088cf9 <unknown>
+#9 0x562bd708bcdc <unknown>
+#10 0x562bd7071f79 <unknown>
+#11 0x562bd708c8b5 <unknown>
+#12 0x562bd70599c3 <unknown>
+#13 0x562bd70af228 <unknown>
+#14 0x562bd70af403 <unknown>
+#15 0x562bd70c1463 <unknown>
+#16 0x7ff9b75211f5 <unknown>
+
+2025-12-01 19:22:17,775 ERROR sis2_etl No items found. Screenshot saved to: /opt/airflow/data/debug_screenshot_20251201_192217.png
+2025-12-01 19:22:17,784 ERROR sis2_etl Page source saved to: /opt/airflow/data/debug_page_source_20251201_192217.html
+2025-12-01 19:22:17,785 ERROR sis2_etl Error during extraction: Could not find product items on the page
+2025-12-01 19:22:17,789 ERROR sis2_etl Traceback (most recent call last):
+  File "/opt/airflow/dags/etl_sis2.py", line 169, in extract_data
+    raise Exception("Could not find product items on the page")
+Exception: Could not find product items on the page
+
+2025-12-01 19:22:17,798 ERROR sis2_etl Current URL: https://ozon.kz/category/smartfony-15502/apple-26303000/?brand_was_predicted=true&category_was_predicted=true&deny_category_prediction=true&from_global=true&text=iphone&__rr=1
+2025-12-01 19:22:17,806 ERROR sis2_etl Page title: Доступ ограничен
+2025-12-01 19:22:17,945 INFO sis2_etl WebDriver closed
+2025-12-01 19:44:42,030 INFO sis2_etl ==================================================
+2025-12-01 19:44:42,031 INFO sis2_etl Starting extraction from Ozon.kz...
+2025-12-01 19:44:42,031 INFO sis2_etl ==================================================
+2025-12-01 19:44:42,032 INFO sis2_etl Initializing undetected ChromeDriver...
+2025-12-01 19:44:45,470 ERROR sis2_etl ==================================================
+2025-12-01 19:44:45,470 ERROR sis2_etl ❌ EXTRACTION FAILED: Message: session not created: cannot connect to chrome at 127.0.0.1:60991
+from session not created: This version of ChromeDriver only supports Chrome version 131
+Current browser version is 142.0.7444.175; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x55f6f8e701fa <unknown>
+#1 0x55f6f8980810 <unknown>
+#2 0x55f6f89be992 <unknown>
+#3 0x55f6f89bd885 <unknown>
+#4 0x55f6f89b326a <unknown>
+#5 0x55f6f89ff816 <unknown>
+#6 0x55f6f89fee66 <unknown>
+#7 0x55f6f89f3323 <unknown>
+#8 0x55f6f89c1de0 <unknown>
+#9 0x55f6f89c2dbe <unknown>
+#10 0x55f6f8e3c12b <unknown>
+#11 0x55f6f8e400c7 <unknown>
+#12 0x55f6f8e296cc <unknown>
+#13 0x55f6f8e40c47 <unknown>
+#14 0x55f6f8e0e67f <unknown>
+#15 0x55f6f8e5f288 <unknown>
+#16 0x55f6f8e5f450 <unknown>
+#17 0x55f6f8e6f076 <unknown>
+#18 0x7f5c9b8961f5 <unknown>
+
+2025-12-01 19:44:45,471 ERROR sis2_etl ==================================================
+2025-12-01 19:44:45,477 ERROR sis2_etl Traceback (most recent call last):
+  File "/opt/airflow/dags/etl_sis2.py", line 78, in extract_data
+    driver = uc.Chrome(options=options, version_main=131)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/undetected_chromedriver/__init__.py", line 466, in __init__
+    super(Chrome, self).__init__(
+  File "/home/airflow/.local/lib/python3.12/site-packages/selenium/webdriver/chrome/webdriver.py", line 47, in __init__
+    super().__init__(
+  File "/home/airflow/.local/lib/python3.12/site-packages/selenium/webdriver/chromium/webdriver.py", line 71, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "/home/airflow/.local/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 263, in __init__
+    self.start_session(capabilities)
+  File "/home/airflow/.local/lib/python3.12/site-packages/undetected_chromedriver/__init__.py", line 724, in start_session
+    super(selenium.webdriver.chrome.webdriver.WebDriver, self).start_session(
+  File "/home/airflow/.local/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 366, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 458, in execute
+    self.error_handler.check_response(response)
+  File "/home/airflow/.local/lib/python3.12/site-packages/selenium/webdriver/remote/errorhandler.py", line 233, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: cannot connect to chrome at 127.0.0.1:60991
+from session not created: This version of ChromeDriver only supports Chrome version 131
+Current browser version is 142.0.7444.175; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x55f6f8e701fa <unknown>
+#1 0x55f6f8980810 <unknown>
+#2 0x55f6f89be992 <unknown>
+#3 0x55f6f89bd885 <unknown>
+#4 0x55f6f89b326a <unknown>
+#5 0x55f6f89ff816 <unknown>
+#6 0x55f6f89fee66 <unknown>
+#7 0x55f6f89f3323 <unknown>
+#8 0x55f6f89c1de0 <unknown>
+#9 0x55f6f89c2dbe <unknown>
+#10 0x55f6f8e3c12b <unknown>
+#11 0x55f6f8e400c7 <unknown>
+#12 0x55f6f8e296cc <unknown>
+#13 0x55f6f8e40c47 <unknown>
+#14 0x55f6f8e0e67f <unknown>
+#15 0x55f6f8e5f288 <unknown>
+#16 0x55f6f8e5f450 <unknown>
+#17 0x55f6f8e6f076 <unknown>
+#18 0x7f5c9b8961f5 <unknown>
+
+
+2025-12-01 19:45:17,017 INFO sis2_etl ==================================================
+2025-12-01 19:45:17,017 INFO sis2_etl Starting extraction from Ozon.kz...
+2025-12-01 19:45:17,018 INFO sis2_etl ==================================================
+2025-12-01 19:45:17,018 INFO sis2_etl Initializing undetected ChromeDriver...
+2025-12-01 19:45:19,684 ERROR sis2_etl ==================================================
+2025-12-01 19:45:19,686 ERROR sis2_etl ❌ EXTRACTION FAILED: Message: session not created: cannot connect to chrome at 127.0.0.1:56425
+from session not created: This version of ChromeDriver only supports Chrome version 131
+Current browser version is 142.0.7444.175; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x55e5054ee1fa <unknown>
+#1 0x55e504ffe810 <unknown>
+#2 0x55e50503c992 <unknown>
+#3 0x55e50503b885 <unknown>
+#4 0x55e50503126a <unknown>
+#5 0x55e50507d816 <unknown>
+#6 0x55e50507ce66 <unknown>
+#7 0x55e505071323 <unknown>
+#8 0x55e50503fde0 <unknown>
+#9 0x55e505040dbe <unknown>
+#10 0x55e5054ba12b <unknown>
+#11 0x55e5054be0c7 <unknown>
+#12 0x55e5054a76cc <unknown>
+#13 0x55e5054bec47 <unknown>
+#14 0x55e50548c67f <unknown>
+#15 0x55e5054dd288 <unknown>
+#16 0x55e5054dd450 <unknown>
+#17 0x55e5054ed076 <unknown>
+#18 0x7f65beb871f5 <unknown>
+
+2025-12-01 19:45:19,688 ERROR sis2_etl ==================================================
+2025-12-01 19:45:19,712 ERROR sis2_etl Traceback (most recent call last):
+  File "/opt/airflow/dags/etl_sis2.py", line 78, in extract_data
+    driver = uc.Chrome(options=options, version_main=131)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/undetected_chromedriver/__init__.py", line 466, in __init__
+    super(Chrome, self).__init__(
+  File "/home/airflow/.local/lib/python3.12/site-packages/selenium/webdriver/chrome/webdriver.py", line 47, in __init__
+    super().__init__(
+  File "/home/airflow/.local/lib/python3.12/site-packages/selenium/webdriver/chromium/webdriver.py", line 71, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "/home/airflow/.local/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 263, in __init__
+    self.start_session(capabilities)
+  File "/home/airflow/.local/lib/python3.12/site-packages/undetected_chromedriver/__init__.py", line 724, in start_session
+    super(selenium.webdriver.chrome.webdriver.WebDriver, self).start_session(
+  File "/home/airflow/.local/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 366, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 458, in execute
+    self.error_handler.check_response(response)
+  File "/home/airflow/.local/lib/python3.12/site-packages/selenium/webdriver/remote/errorhandler.py", line 233, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: cannot connect to chrome at 127.0.0.1:56425
+from session not created: This version of ChromeDriver only supports Chrome version 131
+Current browser version is 142.0.7444.175; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x55e5054ee1fa <unknown>
+#1 0x55e504ffe810 <unknown>
+#2 0x55e50503c992 <unknown>
+#3 0x55e50503b885 <unknown>
+#4 0x55e50503126a <unknown>
+#5 0x55e50507d816 <unknown>
+#6 0x55e50507ce66 <unknown>
+#7 0x55e505071323 <unknown>
+#8 0x55e50503fde0 <unknown>
+#9 0x55e505040dbe <unknown>
+#10 0x55e5054ba12b <unknown>
+#11 0x55e5054be0c7 <unknown>
+#12 0x55e5054a76cc <unknown>
+#13 0x55e5054bec47 <unknown>
+#14 0x55e50548c67f <unknown>
+#15 0x55e5054dd288 <unknown>
+#16 0x55e5054dd450 <unknown>
+#17 0x55e5054ed076 <unknown>
+#18 0x7f65beb871f5 <unknown>
+
+
+2025-12-01 19:45:20,277 INFO sis2_etl Sent failure alert to Telegram.
+2025-12-01 20:42:17,446 INFO sis2_etl ==================================================
+2025-12-01 20:42:17,447 INFO sis2_etl Starting extraction from Ozon.kz...
+2025-12-01 20:42:17,448 INFO sis2_etl ==================================================
+2025-12-01 20:42:17,448 INFO sis2_etl Initializing undetected ChromeDriver...
+2025-12-01 20:42:21,186 ERROR sis2_etl ==================================================
+2025-12-01 20:42:21,189 ERROR sis2_etl ❌ EXTRACTION FAILED: Message: session not created: cannot connect to chrome at 127.0.0.1:39045
+from session not created: This version of ChromeDriver only supports Chrome version 131
+Current browser version is 142.0.7444.175; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x562d07b531fa <unknown>
+#1 0x562d07663810 <unknown>
+#2 0x562d076a1992 <unknown>
+#3 0x562d076a0885 <unknown>
+#4 0x562d0769626a <unknown>
+#5 0x562d076e2816 <unknown>
+#6 0x562d076e1e66 <unknown>
+#7 0x562d076d6323 <unknown>
+#8 0x562d076a4de0 <unknown>
+#9 0x562d076a5dbe <unknown>
+#10 0x562d07b1f12b <unknown>
+#11 0x562d07b230c7 <unknown>
+#12 0x562d07b0c6cc <unknown>
+#13 0x562d07b23c47 <unknown>
+#14 0x562d07af167f <unknown>
+#15 0x562d07b42288 <unknown>
+#16 0x562d07b42450 <unknown>
+#17 0x562d07b52076 <unknown>
+#18 0x7fccf0e161f5 <unknown>
+
+2025-12-01 20:42:21,191 ERROR sis2_etl ==================================================
+2025-12-01 20:42:21,219 ERROR sis2_etl Traceback (most recent call last):
+  File "/opt/airflow/dags/etl_sis2.py", line 78, in extract_data
+    driver = uc.Chrome(options=options, version_main=131)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/undetected_chromedriver/__init__.py", line 466, in __init__
+    super(Chrome, self).__init__(
+  File "/home/airflow/.local/lib/python3.12/site-packages/selenium/webdriver/chrome/webdriver.py", line 47, in __init__
+    super().__init__(
+  File "/home/airflow/.local/lib/python3.12/site-packages/selenium/webdriver/chromium/webdriver.py", line 71, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "/home/airflow/.local/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 263, in __init__
+    self.start_session(capabilities)
+  File "/home/airflow/.local/lib/python3.12/site-packages/undetected_chromedriver/__init__.py", line 724, in start_session
+    super(selenium.webdriver.chrome.webdriver.WebDriver, self).start_session(
+  File "/home/airflow/.local/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 366, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 458, in execute
+    self.error_handler.check_response(response)
+  File "/home/airflow/.local/lib/python3.12/site-packages/selenium/webdriver/remote/errorhandler.py", line 233, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: cannot connect to chrome at 127.0.0.1:39045
+from session not created: This version of ChromeDriver only supports Chrome version 131
+Current browser version is 142.0.7444.175; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x562d07b531fa <unknown>
+#1 0x562d07663810 <unknown>
+#2 0x562d076a1992 <unknown>
+#3 0x562d076a0885 <unknown>
+#4 0x562d0769626a <unknown>
+#5 0x562d076e2816 <unknown>
+#6 0x562d076e1e66 <unknown>
+#7 0x562d076d6323 <unknown>
+#8 0x562d076a4de0 <unknown>
+#9 0x562d076a5dbe <unknown>
+#10 0x562d07b1f12b <unknown>
+#11 0x562d07b230c7 <unknown>
+#12 0x562d07b0c6cc <unknown>
+#13 0x562d07b23c47 <unknown>
+#14 0x562d07af167f <unknown>
+#15 0x562d07b42288 <unknown>
+#16 0x562d07b42450 <unknown>
+#17 0x562d07b52076 <unknown>
+#18 0x7fccf0e161f5 <unknown>
+
+
+2025-12-01 20:42:52,829 INFO sis2_etl ==================================================
+2025-12-01 20:42:52,830 INFO sis2_etl Starting extraction from Ozon.kz...
+2025-12-01 20:42:52,831 INFO sis2_etl ==================================================
+2025-12-01 20:42:52,832 INFO sis2_etl Initializing undetected ChromeDriver...
+2025-12-01 20:42:55,742 ERROR sis2_etl ==================================================
+2025-12-01 20:42:55,744 ERROR sis2_etl ❌ EXTRACTION FAILED: Message: session not created: cannot connect to chrome at 127.0.0.1:44605
+from session not created: This version of ChromeDriver only supports Chrome version 131
+Current browser version is 142.0.7444.175; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x5626eb8391fa <unknown>
+#1 0x5626eb349810 <unknown>
+#2 0x5626eb387992 <unknown>
+#3 0x5626eb386885 <unknown>
+#4 0x5626eb37c26a <unknown>
+#5 0x5626eb3c8816 <unknown>
+#6 0x5626eb3c7e66 <unknown>
+#7 0x5626eb3bc323 <unknown>
+#8 0x5626eb38ade0 <unknown>
+#9 0x5626eb38bdbe <unknown>
+#10 0x5626eb80512b <unknown>
+#11 0x5626eb8090c7 <unknown>
+#12 0x5626eb7f26cc <unknown>
+#13 0x5626eb809c47 <unknown>
+#14 0x5626eb7d767f <unknown>
+#15 0x5626eb828288 <unknown>
+#16 0x5626eb828450 <unknown>
+#17 0x5626eb838076 <unknown>
+#18 0x7f85222541f5 <unknown>
+
+2025-12-01 20:42:55,746 ERROR sis2_etl ==================================================
+2025-12-01 20:42:55,772 ERROR sis2_etl Traceback (most recent call last):
+  File "/opt/airflow/dags/etl_sis2.py", line 78, in extract_data
+    driver = uc.Chrome(options=options, version_main=131)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/undetected_chromedriver/__init__.py", line 466, in __init__
+    super(Chrome, self).__init__(
+  File "/home/airflow/.local/lib/python3.12/site-packages/selenium/webdriver/chrome/webdriver.py", line 47, in __init__
+    super().__init__(
+  File "/home/airflow/.local/lib/python3.12/site-packages/selenium/webdriver/chromium/webdriver.py", line 71, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "/home/airflow/.local/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 263, in __init__
+    self.start_session(capabilities)
+  File "/home/airflow/.local/lib/python3.12/site-packages/undetected_chromedriver/__init__.py", line 724, in start_session
+    super(selenium.webdriver.chrome.webdriver.WebDriver, self).start_session(
+  File "/home/airflow/.local/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 366, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 458, in execute
+    self.error_handler.check_response(response)
+  File "/home/airflow/.local/lib/python3.12/site-packages/selenium/webdriver/remote/errorhandler.py", line 233, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: cannot connect to chrome at 127.0.0.1:44605
+from session not created: This version of ChromeDriver only supports Chrome version 131
+Current browser version is 142.0.7444.175; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x5626eb8391fa <unknown>
+#1 0x5626eb349810 <unknown>
+#2 0x5626eb387992 <unknown>
+#3 0x5626eb386885 <unknown>
+#4 0x5626eb37c26a <unknown>
+#5 0x5626eb3c8816 <unknown>
+#6 0x5626eb3c7e66 <unknown>
+#7 0x5626eb3bc323 <unknown>
+#8 0x5626eb38ade0 <unknown>
+#9 0x5626eb38bdbe <unknown>
+#10 0x5626eb80512b <unknown>
+#11 0x5626eb8090c7 <unknown>
+#12 0x5626eb7f26cc <unknown>
+#13 0x5626eb809c47 <unknown>
+#14 0x5626eb7d767f <unknown>
+#15 0x5626eb828288 <unknown>
+#16 0x5626eb828450 <unknown>
+#17 0x5626eb838076 <unknown>
+#18 0x7f85222541f5 <unknown>
+
+
+2025-12-01 20:42:56,324 INFO sis2_etl Sent failure alert to Telegram.
+2025-12-01 20:52:33,912 INFO sis2_etl ==================================================
+2025-12-01 20:52:33,913 INFO sis2_etl Starting extraction from Ozon.kz...
+2025-12-01 20:52:33,914 INFO sis2_etl ==================================================
+2025-12-01 20:52:33,914 INFO sis2_etl Initializing undetected ChromeDriver...
+2025-12-01 20:52:37,026 INFO sis2_etl Navigating to URL...
+2025-12-01 20:52:38,138 INFO sis2_etl Waiting for page to load (15 seconds)...
+2025-12-01 20:52:53,149 INFO sis2_etl Current URL: https://ozon.kz/category/smartfony-15502/apple-26303000/?brand_was_predicted=true&category_was_predicted=true&deny_category_prediction=true&from_global=true&text=iphone&__rr=1
+2025-12-01 20:52:53,161 INFO sis2_etl Page title: Доступ ограничен
+2025-12-01 20:52:53,179 INFO sis2_etl Scrolling page...
+2025-12-01 20:52:57,201 INFO sis2_etl Looking for products...
+2025-12-01 20:53:17,287 WARNING sis2_etl Main selector failed, trying backup...
+2025-12-01 20:53:17,325 ERROR sis2_etl ❌ NO PRODUCTS FOUND!
+2025-12-01 20:53:17,516 ERROR sis2_etl Screenshot saved: /opt/airflow/data/screenshot_20251201_205317.png
+2025-12-01 20:53:17,528 ERROR sis2_etl HTML saved: /opt/airflow/data/page_20251201_205317.html
+2025-12-01 20:53:17,538 ERROR sis2_etl ==================================================
+2025-12-01 20:53:17,539 ERROR sis2_etl ❌ EXTRACTION FAILED: No products found. Page title: Доступ ограничен
+2025-12-01 20:53:17,540 ERROR sis2_etl ==================================================
+2025-12-01 20:53:17,547 ERROR sis2_etl Traceback (most recent call last):
+  File "/opt/airflow/dags/etl_sis2.py", line 132, in extract_data
+    raise Exception(f"No products found. Page title: {driver.title}")
+Exception: No products found. Page title: Доступ ограничен
+
+2025-12-01 20:53:17,558 ERROR sis2_etl Final URL: https://ozon.kz/category/smartfony-15502/apple-26303000/?brand_was_predicted=true&category_was_predicted=true&deny_category_prediction=true&from_global=true&text=iphone&__rr=1
+2025-12-01 20:53:17,567 ERROR sis2_etl Final title: Доступ ограничен
+2025-12-01 20:53:17,734 INFO sis2_etl Browser closed
+2025-12-01 20:53:49,211 INFO sis2_etl ==================================================
+2025-12-01 20:53:49,212 INFO sis2_etl Starting extraction from Ozon.kz...
+2025-12-01 20:53:49,213 INFO sis2_etl ==================================================
+2025-12-01 20:53:49,214 INFO sis2_etl Initializing undetected ChromeDriver...
+2025-12-01 20:53:52,179 INFO sis2_etl Navigating to URL...
+2025-12-01 20:53:53,343 INFO sis2_etl Waiting for page to load (15 seconds)...
+2025-12-01 20:54:08,364 INFO sis2_etl Current URL: https://ozon.kz/category/smartfony-15502/apple-26303000/?brand_was_predicted=true&category_was_predicted=true&deny_category_prediction=true&from_global=true&text=iphone&__rr=1
+2025-12-01 20:54:08,377 INFO sis2_etl Page title: Доступ ограничен
+2025-12-01 20:54:08,397 INFO sis2_etl Scrolling page...
+2025-12-01 20:54:12,419 INFO sis2_etl Looking for products...
+2025-12-01 20:54:32,434 WARNING sis2_etl Main selector failed, trying backup...
+2025-12-01 20:54:32,457 ERROR sis2_etl ❌ NO PRODUCTS FOUND!
+2025-12-01 20:54:32,623 ERROR sis2_etl Screenshot saved: /opt/airflow/data/screenshot_20251201_205432.png
+2025-12-01 20:54:32,633 ERROR sis2_etl HTML saved: /opt/airflow/data/page_20251201_205432.html
+2025-12-01 20:54:32,643 ERROR sis2_etl ==================================================
+2025-12-01 20:54:32,644 ERROR sis2_etl ❌ EXTRACTION FAILED: No products found. Page title: Доступ ограничен
+2025-12-01 20:54:32,644 ERROR sis2_etl ==================================================
+2025-12-01 20:54:32,650 ERROR sis2_etl Traceback (most recent call last):
+  File "/opt/airflow/dags/etl_sis2.py", line 132, in extract_data
+    raise Exception(f"No products found. Page title: {driver.title}")
+Exception: No products found. Page title: Доступ ограничен
+
+2025-12-01 20:54:32,661 ERROR sis2_etl Final URL: https://ozon.kz/category/smartfony-15502/apple-26303000/?brand_was_predicted=true&category_was_predicted=true&deny_category_prediction=true&from_global=true&text=iphone&__rr=1
+2025-12-01 20:54:32,671 ERROR sis2_etl Final title: Доступ ограничен
+2025-12-01 20:54:32,830 INFO sis2_etl Browser closed
+2025-12-01 20:54:33,230 INFO sis2_etl Sent failure alert to Telegram.
