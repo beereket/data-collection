@@ -18,7 +18,7 @@ TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN")
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID")
 
 AIRFLOW_HOME = os.environ.get("AIRFLOW_HOME", "/opt/airflow")
-LOG_DIR = Path(AIRFLOW_HOME) / "logs" / "project_api_to_dwh"
+LOG_DIR = Path(AIRFLOW_HOME) / "logs" / "sis2_etl"
 
 LOG_DIR.mkdir(parents=True, exist_ok=True)
 LOG_FILE = LOG_DIR / "project_api_to_dwh.log"
