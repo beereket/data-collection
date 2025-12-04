@@ -1,189 +1,69 @@
 [
     {
-        "title": "Japan’s Water Story: a journey through the Hokuriku-Shinetsu region",
-        "link": "https://www.euronews.com/travel/2025/12/03/japans-water-story-a-journey-through-the-hokuriku-shinetsu-region",
-        "description": "Water is not just a resource in Japan’s Hokuriku-Shinetsu region; it is the very foundation of the land, its culture and the enduring resilience of its people.",
+        "title": "Ai robots in Tokyo showcase future tech advancements",
+        "link": "https://www.euronews.com/video/2025/12/04/ai-powered-robots-showcased-at-tokyo-trade-show",
+        "description": "AI-powered robots are attracting crowds in Tokyo, showcasing the latest in robot technology. Highlights include a humanoid robot performing mock disaster tasks.",
+        "date": "04/12/2025"
+    },
+    {
+        "title": "Euroviews. Europe's new linkage is a dangerous fantasy",
+        "link": "https://www.euronews.com/2025/12/04/europes-new-linkage-is-a-dangerous-fantasy",
+        "description": "The future of European stability lies not in the Middle East, but in Europe’s own willingness to confront the challenges it has allowed to grow unchecked for far too long, MK Ohad Tal writes in an opinion article for Euronews.",
+        "date": "04/12/2025"
+    },
+    {
+        "title": "Five killed in Israeli strike on Gaza after attack injures soldiers",
+        "link": "https://www.euronews.com/2025/12/04/five-killed-in-israeli-strike-on-gaza-in-response-to-attack-on-its-soldiers",
+        "description": "Meanwhile, Israel says it would open up the Rafah border crossing with Egypt, which would allow Palestinians to leave the Strip.",
+        "date": "04/12/2025"
+    },
+    {
+        "title": "Kazakhstan calls on EU to speed up Central Asia investments",
+        "link": "https://www.euronews.com/2025/12/04/kazakhstan-calls-on-eu-to-speed-up-10-billion-central-asia-investments",
+        "description": "The EU and Kazakhstan are celebrating the 10th anniversary of the signing of the Enhanced Cooperation Agreement, with connectivity and critical raw materials as key areas of cooperation.",
+        "date": "04/12/2025"
+    },
+    {
+        "title": "Activist urges Germany to retain Syria asylum amid persecution fears",
+        "link": "https://www.euronews.com/2025/12/04/german-syrian-activist-urges-berlin-to-retain-asylum-among-ongoing-persecution-fears",
+        "description": "German Chancellor Friedrich Merz argues against granting asylum to Syrians after al-Assad's regime fell, but critics warn the country remains unsafe for minorities and women.",
+        "date": "04/12/2025"
+    },
+    {
+        "title": "Macron welcomed in China for talks with Xi on trade ties and the war in Ukraine",
+        "link": "https://www.euronews.com/video/2025/12/04/macron-welcomed-in-china-for-talks-with-xi-on-trade-ties-and-the-war-in-ukraine",
+        "description": "French president Emmanuel Macron was welcomed in Beijing by Chinese president Xi Jinping for discussions focused on trade relations and the conflict in Ukraine.",
+        "date": "04/12/2025"
+    },
+    {
+        "title": "Uzbekistan’s new labour mobility model",
+        "link": "https://www.euronews.com/business/2025/12/04/labour-mobility-reframed-uzbekistans-new-model-for-managed-migration",
+        "description": "With 2 million citizens abroad and €13.9 billion in remittances, Uzbekistan is expanding regulated labour migration, training workers for rising demand in Europe and Asia.",
+        "date": "04/12/2025"
+    },
+    {
+        "title": "Myanmar opium cultivation hits highest level in a decade, UN says",
+        "link": "https://www.euronews.com/2025/12/03/opium-poppy-cultivation-in-myanmar-hits-highest-level-in-a-decade-un-report-says",
+        "description": "There were signs that heroin from Myanmar is reaching markets in Europe previously supplied by Afghanistan, with several seizures over the past year that involved passengers travelling from Southeast Asia to Europe.",
         "date": "03/12/2025"
     },
     {
-        "title": "‘Human-made crisis’: How climate change has affected Asia’s floods",
-        "link": "https://www.euronews.com/green/2025/12/03/monsoon-season-or-climate-disaster-whats-driving-asias-flash-floods-as-death-toll-hits-130",
-        "description": "More than 1,400 people have been killed following record-breaking rainfall and storm surges across parts of Asia.",
+        "title": "EU updates asylum guidance for Syrians a year after al-Assad's fall",
+        "link": "https://www.euronews.com/2025/12/03/eu-updates-asylum-guidance-for-syrian-refugees-a-year-after-fall-of-bashar-al-assad",
+        "description": "The number of Syrians requesting asylum dropped significantly from 16,000 in October 2024, before the fall of al-Assad in December, to 3,500 in September 2025.",
         "date": "03/12/2025"
     },
     {
-        "title": "Deep-sea search to resume for lost Malaysia Airlines flight 370",
-        "link": "https://www.euronews.com/2025/12/03/malaysian-authorities-announce-deep-sea-search-for-mh370-will-resume-30-december",
-        "description": "Malaysia’s transport ministry announced the restart of the deep-sea search for Malaysia Airlines Flight 370 on 30 December, raising hopes of finally finding the jet that vanished in 2014.",
+        "title": "Indonesia flood death toll rises to 702 as search efforts intensify",
+        "link": "https://www.euronews.com/video/2025/12/03/indonesia-flood-death-toll-rises-to-702-as-search-efforts-intensify",
+        "description": "Indonesia’s flood and landslide disaster on Sumatra has left at least 702 people dead and hundreds missing, with severe weather from a tropical cyclone worsening the crisis.",
         "date": "03/12/2025"
     },
     {
-        "title": "Afghanistan's Taliban carry out public execution in sports stadium",
-        "link": "https://www.euronews.com/2025/12/02/afghanistans-taliban-rulers-carry-out-public-execution-in-sports-stadium",
-        "description": "The man had been convicted of killing 13 members of a family, including children, and was executed by one of their relatives, according to police.",
-        "date": "02/12/2025"
-    },
-    {
-        "title": "China taxes condoms for first time in 30 years to boost births",
-        "link": "https://www.euronews.com/business/2025/12/02/china-to-tax-condoms-for-first-time-in-30-years-as-demographic-crisis-deepens",
-        "description": "The removal of a tax exemption reflects Beijing’s concerns over ageing, labour shortages, and slowing long-term growth.",
-        "date": "02/12/2025"
-    },
-    {
-        "title": "Uzbekistan’s Silk Road heritage",
-        "link": "https://www.euronews.com/travel/2025/12/02/from-samarkand-to-khiva-uzbekistans-unesco-landmarks-trace-the-story-of-the-silk-road",
-        "description": "Once a crossroads of empires and ideas, Uzbekistan remains one of the best-preserved witnesses to the Silk Road’s influence on architecture, learning and spiritual life.",
-        "date": "02/12/2025"
-    },
-    {
-        "title": "Natural History Museum Abu Dhabi launches with immersive exhibits spanning Earth and space history",
-        "link": "https://www.euronews.com/culture/2025/12/02/natural-history-museum-abu-dhabi-launches-with-immersive-exhibits-spanning-earth-and-space",
-        "description": "Abu Dhabi has opened the Middle East’s largest Natural History Museum, unveiling an ambitious journey through 13 billion years of Earth and cosmic history with rare fossils, immersive experiences and major scientific collections.",
-        "date": "02/12/2025"
-    },
-    {
-        "title": "Japan: Record-price yellowtail sells for over 22,000 euros at Ishikawa’s first winter auction",
-        "link": "https://www.euronews.com/video/2025/12/02/japan-record-price-yellowtail-sells-for-over-22000-euros-at-ishikawas-first-winter-auction",
-        "description": "A Kirameki-branded winter yellowtail from quake-hit Noto fetched a record-tying 4 million yen at Ishikawa Prefecture’s first auction of the season.",
-        "date": "02/12/2025"
-    },
-    {
-        "title": "Doha Forum 2025 aims to make justice more than a promise",
-        "link": "https://www.euronews.com/2025/12/02/doha-forum-2025-aims-to-make-justice-and-global-cooperation-more-than-a-promise",
-        "description": "The event in Qatar's capital is set to focus on turning commitments into impactful policies through open discussions on urgent issues, organisers said.",
-        "date": "02/12/2025"
-    },
-    {
-        "title": "Israel plans to deploy Iron Beam laser defence system by year-end",
-        "link": "https://www.euronews.com/2025/12/02/israels-new-iron-beam-laser-system-passes-missile-and-drone-intercept-tests",
-        "description": "The first operational high-power laser beam will be deployed this year, providing a cost-effective and rapid solution for drones and unmanned aerial vehicles.",
-        "date": "02/12/2025"
-    },
-    {
-        "title": "Natural History Museum Abu Dhabi promises 'nature's greatest story'",
-        "link": "https://www.euronews.com/culture/2025/12/02/natures-greatest-story-natural-history-museum-abu-dhabi-celebrates-historic-opening",
-        "description": "The National History Museum Abu Dhabi is preparing to open its doors as the the latest addition to the Saadiyat Cultural District which is already home to Louvre Abu Dhabi, teamLab Phenomena Abu Dhabi and Manarat Al Saadiyat.",
-        "date": "02/12/2025"
-    },
-    {
-        "title": "Sri Lanka: Aerial video shows extent of flooding with over 365 dead and 367 missing",
-        "link": "https://www.euronews.com/video/2025/12/02/sri-lanka-aerial-video-shows-extent-of-flooding-with-over-365-dead-and-367-missing",
-        "description": "Aerial footage shows severe flooding across Sri Lanka, where more than 365 people have died and authorities continue searching for hundreds still missing.",
-        "date": "02/12/2025"
-    },
-    {
-        "title": "Samarkand CITES summit showcases tech to save endangered species",
-        "link": "https://www.euronews.com/green/2025/12/02/ai-and-drones-lead-global-fight-for-wildlife-in-samarkand-talks",
-        "description": "Experts at the 20th CITES Conference reveal wildlife crime worth up to €22B annually, putting 40,000+ species at risk and boosting tech monitoring efforts.",
-        "date": "02/12/2025"
-    },
-    {
-        "title": "Pope Leo XIV urges unity and peace at interfaith gathering in Lebanon",
-        "link": "https://www.euronews.com/2025/12/02/pope-calls-for-divine-gift-of-peacein-meeting-with-lebanons-christian-and-muslim-leaders",
-        "description": "The pontiff's message emphasised the importance of Lebanon and its Christian population to the Catholic Church.",
-        "date": "02/12/2025"
-    },
-    {
-        "title": "Arab Cup opens in Doha as Palestine claim win against hosts",
-        "link": "https://www.euronews.com/2025/12/01/arab-cup-kicks-off-in-doha-after-dazzling-opening-ceremony-as-palestine-beat-hosts-qatar",
-        "description": "The FIFA Arab Cup kicked off in thrilling fashion as Palestine defeated hosts Qatar with a stoppage-time winner, following an earlier Group A match in which Syria stunned Tunisia.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Kazakhstan joins global fight: 16 days to end gender-based violence",
-        "link": "https://www.euronews.com/culture/2025/12/01/cities-across-kazakhstan-lit-orange-to-raise-awareness-of-violence-against-women",
-        "description": "Landmark buildings across Kazakhstan were lit up in orange to mark the UN's International Day for the Elimination of Violence Against Women.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Central Asia and Azerbaijan: a shared cultural legacy for a shared future",
-        "link": "https://www.euronews.com/culture/2025/12/01/central-asia-and-azerbaijan-a-shared-cultural-legacy-for-a-shared-future",
-        "description": "Culture is the memory of civilisation — a legacy that crosses borders, survives political change, and unites generations and nations.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Tracing the Edo Shogun Roads: Kanto’s highways of heritage and craftsmanship",
-        "link": "https://www.euronews.com/travel/2025/12/01/tracing-the-edo-shogun-roads-kantos-highways-of-heritage-and-craftsmanship",
-        "description": "The Kanto region, defined by the expansive Greater Tokyo Area, is recognised for its dynamic modernity, towering architecture, advanced technology and bustling commerce.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "New investments push Trans-Caspian Corridor into its next phase",
-        "link": "https://www.euronews.com/business/2025/12/01/new-investments-push-trans-caspian-corridor-into-its-next-phase",
-        "description": "At the Tashkent Investors Forum, officials detailed new rail, port, and digital upgrades, stressing that coordinated reforms and harmonised border systems are essential for scaling the corridor.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Central Asia’s education boom takes center stage at Tashkent QS forum",
-        "link": "https://www.euronews.com/2025/12/01/central-asias-education-boom-takes-center-stage-at-qs-forum-in-tashkent",
-        "description": "Leaders from across Central Asia gathered to discuss progress in universities, highlight new partnerships and explore how strengthened cooperation can improve academic quality and research opportunities.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Hong Kong says netting on buildings that caught fire did not meet code",
-        "link": "https://www.euronews.com/2025/12/01/hong-kong-authorities-say-netting-on-buildings-that-caught-fire-did-not-meet-code",
-        "description": "The fire, which broke out on Wednesday, burned through seven of eight apartment towers, home to some 4,600 people, and wasn't fully extinguished until Friday morning.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Reviving the Silk Road: Central Asia tourism surges",
-        "link": "https://www.euronews.com/travel/2025/12/01/from-ancient-trade-to-modern-travel-silk-road-tourism-surges-across-eurasia",
-        "description": "The 30th Tashkent International Tourism Fair highlights Silk Road tourism growth, driven by flights, multi-country routes, local crafts, and AI planning tools.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Hong Kong mourners queue to pay respects after deadly Tai Po fire",
-        "link": "https://www.euronews.com/video/2025/12/01/hong-kong-mourners-queue-to-pay-respects-after-deadly-tai-po-fire",
-        "description": "Thousands of Hong Kong residents formed long queues across Tai Po to pay respects to the victims of the deadly Wang Fuk Court fire, as memorials and tributes continued citywide.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Former UK MP sentenced to prison in Bangladesh corruption trial",
-        "link": "https://www.euronews.com/2025/12/01/british-former-mp-tulip-siddiq-sentenced-to-prison-in-bangladesh-corruption-trial",
-        "description": "In January, Siddiq resigned as a government minister following pressure because of her ties to her aunt.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Inside Uzbekistan’s drive to reclaim its heritage",
-        "link": "https://www.euronews.com/culture/2025/12/01/inside-uzbekistans-drive-to-reclaim-its-heritage",
-        "description": "In central Tashkent, a bold new landmark symbolises Uzbekistan’s spiritual revival.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Indonesia floods cause severe damage to infrastructure",
-        "link": "https://www.euronews.com/video/2025/12/01/indonesia-floods-cause-severe-damage-to-infrastructure",
-        "description": "Floods in East Aceh’s Idi Town have caused major damage to roads and public facilities, leaving residents without electricity, water and internet while emergency aid remains limited.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "",
-        "link": "https://www.euronews.com/health/2025/12/02/orange-juice-found-to-affect-thousands-of-genes-in-immune-cells-study-says",
-        "description": null,
-        "date": null
-    },
-    {
-        "title": "",
-        "link": "https://www.euronews.com/2025/12/02/if-europe-wants-to-start-a-war-we-are-ready-now-russias-putin-says",
-        "description": null,
-        "date": null
-    },
-    {
-        "title": "",
-        "link": "https://www.euronews.com/2025/12/03/turkish-clerk-flees-to-uk-after-stealing-millions-in-gold-and-silver-from-courthouse",
-        "description": null,
-        "date": null
-    },
-    {
-        "title": "",
-        "link": "https://www.euronews.com/2025/12/03/spain-overwhelmed-by-23-million-citizenship-applications-from-franco-era-descendants",
-        "description": null,
-        "date": null
-    },
-    {
-        "title": "",
-        "link": "https://www.euronews.com/my-europe/2025/12/03/von-der-leyen-pushes-ahead-with-reparations-loan-for-ukraine-as-belgium-maintains-its-oppo",
-        "description": null,
-        "date": null
+        "title": "Kazakhstan advances nuclear projects and research hubs for energy",
+        "link": "https://www.euronews.com/business/2025/12/03/kazakhstan-advances-nuclear-projects-and-research-hubs-to-strengthen-its-energy-future",
+        "description": "The Central Asian nation is leveraging its uranium wealth, cutting-edge research and strategic partnerships to develop nuclear power and medical innovations, charting a path toward carbon neutrality while emerging as a key player in global energy.",
+        "date": "03/12/2025"
     },
     {
         "title": "Japan’s Water Story: a journey through the Hokuriku-Shinetsu region",
@@ -276,100 +156,100 @@
         "date": "01/12/2025"
     },
     {
-        "title": "Kazakhstan joins global fight: 16 days to end gender-based violence",
-        "link": "https://www.euronews.com/culture/2025/12/01/cities-across-kazakhstan-lit-orange-to-raise-awareness-of-violence-against-women",
-        "description": "Landmark buildings across Kazakhstan were lit up in orange to mark the UN's International Day for the Elimination of Violence Against Women.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Central Asia and Azerbaijan: a shared cultural legacy for a shared future",
-        "link": "https://www.euronews.com/culture/2025/12/01/central-asia-and-azerbaijan-a-shared-cultural-legacy-for-a-shared-future",
-        "description": "Culture is the memory of civilisation — a legacy that crosses borders, survives political change, and unites generations and nations.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Tracing the Edo Shogun Roads: Kanto’s highways of heritage and craftsmanship",
-        "link": "https://www.euronews.com/travel/2025/12/01/tracing-the-edo-shogun-roads-kantos-highways-of-heritage-and-craftsmanship",
-        "description": "The Kanto region, defined by the expansive Greater Tokyo Area, is recognised for its dynamic modernity, towering architecture, advanced technology and bustling commerce.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "New investments push Trans-Caspian Corridor into its next phase",
-        "link": "https://www.euronews.com/business/2025/12/01/new-investments-push-trans-caspian-corridor-into-its-next-phase",
-        "description": "At the Tashkent Investors Forum, officials detailed new rail, port, and digital upgrades, stressing that coordinated reforms and harmonised border systems are essential for scaling the corridor.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Central Asia’s education boom takes center stage at Tashkent QS forum",
-        "link": "https://www.euronews.com/2025/12/01/central-asias-education-boom-takes-center-stage-at-qs-forum-in-tashkent",
-        "description": "Leaders from across Central Asia gathered to discuss progress in universities, highlight new partnerships and explore how strengthened cooperation can improve academic quality and research opportunities.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Hong Kong says netting on buildings that caught fire did not meet code",
-        "link": "https://www.euronews.com/2025/12/01/hong-kong-authorities-say-netting-on-buildings-that-caught-fire-did-not-meet-code",
-        "description": "The fire, which broke out on Wednesday, burned through seven of eight apartment towers, home to some 4,600 people, and wasn't fully extinguished until Friday morning.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Reviving the Silk Road: Central Asia tourism surges",
-        "link": "https://www.euronews.com/travel/2025/12/01/from-ancient-trade-to-modern-travel-silk-road-tourism-surges-across-eurasia",
-        "description": "The 30th Tashkent International Tourism Fair highlights Silk Road tourism growth, driven by flights, multi-country routes, local crafts, and AI planning tools.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Hong Kong mourners queue to pay respects after deadly Tai Po fire",
-        "link": "https://www.euronews.com/video/2025/12/01/hong-kong-mourners-queue-to-pay-respects-after-deadly-tai-po-fire",
-        "description": "Thousands of Hong Kong residents formed long queues across Tai Po to pay respects to the victims of the deadly Wang Fuk Court fire, as memorials and tributes continued citywide.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Former UK MP sentenced to prison in Bangladesh corruption trial",
-        "link": "https://www.euronews.com/2025/12/01/british-former-mp-tulip-siddiq-sentenced-to-prison-in-bangladesh-corruption-trial",
-        "description": "In January, Siddiq resigned as a government minister following pressure because of her ties to her aunt.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Inside Uzbekistan’s drive to reclaim its heritage",
-        "link": "https://www.euronews.com/culture/2025/12/01/inside-uzbekistans-drive-to-reclaim-its-heritage",
-        "description": "In central Tashkent, a bold new landmark symbolises Uzbekistan’s spiritual revival.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Indonesia floods cause severe damage to infrastructure",
-        "link": "https://www.euronews.com/video/2025/12/01/indonesia-floods-cause-severe-damage-to-infrastructure",
-        "description": "Floods in East Aceh’s Idi Town have caused major damage to roads and public facilities, leaving residents without electricity, water and internet while emergency aid remains limited.",
-        "date": "01/12/2025"
-    },
-    {
         "title": "",
-        "link": "https://www.euronews.com/health/2025/12/02/orange-juice-found-to-affect-thousands-of-genes-in-immune-cells-study-says",
+        "link": "https://www.euronews.com/business/2025/11/20/expo-2025-ends-with-global-dialogue-on-life-and-sustainability",
         "description": null,
         "date": null
     },
     {
         "title": "",
-        "link": "https://www.euronews.com/2025/12/02/if-europe-wants-to-start-a-war-we-are-ready-now-russias-putin-says",
+        "link": "https://www.euronews.com/business/2025/12/02/europes-defence-landscape-which-countries-spend-the-most",
         "description": null,
         "date": null
     },
     {
         "title": "",
-        "link": "https://www.euronews.com/2025/12/03/turkish-clerk-flees-to-uk-after-stealing-millions-in-gold-and-silver-from-courthouse",
+        "link": "https://www.euronews.com/business/2025/12/04/why-are-european-natural-gas-prices-tumbling-despite-the-cold-winter",
         "description": null,
         "date": null
     },
     {
         "title": "",
-        "link": "https://www.euronews.com/2025/12/03/spain-overwhelmed-by-23-million-citizenship-applications-from-franco-era-descendants",
+        "link": "https://www.euronews.com/business/2025/12/03/a-decade-of-brexit-britain-falls-behind-peers-in-trade-and-growth",
         "description": null,
         "date": null
     },
     {
         "title": "",
-        "link": "https://www.euronews.com/my-europe/2025/12/03/von-der-leyen-pushes-ahead-with-reparations-loan-for-ukraine-as-belgium-maintains-its-oppo",
+        "link": "https://www.euronews.com/business/2025/11/20/ai-powered-methane-tracking-offshore-drones-and-real-time-safety-analytics-revealed-at-adi",
         "description": null,
         "date": null
+    },
+    {
+        "title": "Ai robots in Tokyo showcase future tech advancements",
+        "link": "https://www.euronews.com/video/2025/12/04/ai-powered-robots-showcased-at-tokyo-trade-show",
+        "description": "AI-powered robots are attracting crowds in Tokyo, showcasing the latest in robot technology. Highlights include a humanoid robot performing mock disaster tasks.",
+        "date": "04/12/2025"
+    },
+    {
+        "title": "Euroviews. Europe's new linkage is a dangerous fantasy",
+        "link": "https://www.euronews.com/2025/12/04/europes-new-linkage-is-a-dangerous-fantasy",
+        "description": "The future of European stability lies not in the Middle East, but in Europe’s own willingness to confront the challenges it has allowed to grow unchecked for far too long, MK Ohad Tal writes in an opinion article for Euronews.",
+        "date": "04/12/2025"
+    },
+    {
+        "title": "Five killed in Israeli strike on Gaza after attack injures soldiers",
+        "link": "https://www.euronews.com/2025/12/04/five-killed-in-israeli-strike-on-gaza-in-response-to-attack-on-its-soldiers",
+        "description": "Meanwhile, Israel says it would open up the Rafah border crossing with Egypt, which would allow Palestinians to leave the Strip.",
+        "date": "04/12/2025"
+    },
+    {
+        "title": "Kazakhstan calls on EU to speed up Central Asia investments",
+        "link": "https://www.euronews.com/2025/12/04/kazakhstan-calls-on-eu-to-speed-up-10-billion-central-asia-investments",
+        "description": "The EU and Kazakhstan are celebrating the 10th anniversary of the signing of the Enhanced Cooperation Agreement, with connectivity and critical raw materials as key areas of cooperation.",
+        "date": "04/12/2025"
+    },
+    {
+        "title": "Activist urges Germany to retain Syria asylum amid persecution fears",
+        "link": "https://www.euronews.com/2025/12/04/german-syrian-activist-urges-berlin-to-retain-asylum-among-ongoing-persecution-fears",
+        "description": "German Chancellor Friedrich Merz argues against granting asylum to Syrians after al-Assad's regime fell, but critics warn the country remains unsafe for minorities and women.",
+        "date": "04/12/2025"
+    },
+    {
+        "title": "Macron welcomed in China for talks with Xi on trade ties and the war in Ukraine",
+        "link": "https://www.euronews.com/video/2025/12/04/macron-welcomed-in-china-for-talks-with-xi-on-trade-ties-and-the-war-in-ukraine",
+        "description": "French president Emmanuel Macron was welcomed in Beijing by Chinese president Xi Jinping for discussions focused on trade relations and the conflict in Ukraine.",
+        "date": "04/12/2025"
+    },
+    {
+        "title": "Uzbekistan’s new labour mobility model",
+        "link": "https://www.euronews.com/business/2025/12/04/labour-mobility-reframed-uzbekistans-new-model-for-managed-migration",
+        "description": "With 2 million citizens abroad and €13.9 billion in remittances, Uzbekistan is expanding regulated labour migration, training workers for rising demand in Europe and Asia.",
+        "date": "04/12/2025"
+    },
+    {
+        "title": "Myanmar opium cultivation hits highest level in a decade, UN says",
+        "link": "https://www.euronews.com/2025/12/03/opium-poppy-cultivation-in-myanmar-hits-highest-level-in-a-decade-un-report-says",
+        "description": "There were signs that heroin from Myanmar is reaching markets in Europe previously supplied by Afghanistan, with several seizures over the past year that involved passengers travelling from Southeast Asia to Europe.",
+        "date": "03/12/2025"
+    },
+    {
+        "title": "EU updates asylum guidance for Syrians a year after al-Assad's fall",
+        "link": "https://www.euronews.com/2025/12/03/eu-updates-asylum-guidance-for-syrian-refugees-a-year-after-fall-of-bashar-al-assad",
+        "description": "The number of Syrians requesting asylum dropped significantly from 16,000 in October 2024, before the fall of al-Assad in December, to 3,500 in September 2025.",
+        "date": "03/12/2025"
+    },
+    {
+        "title": "Indonesia flood death toll rises to 702 as search efforts intensify",
+        "link": "https://www.euronews.com/video/2025/12/03/indonesia-flood-death-toll-rises-to-702-as-search-efforts-intensify",
+        "description": "Indonesia’s flood and landslide disaster on Sumatra has left at least 702 people dead and hundreds missing, with severe weather from a tropical cyclone worsening the crisis.",
+        "date": "03/12/2025"
+    },
+    {
+        "title": "Kazakhstan advances nuclear projects and research hubs for energy",
+        "link": "https://www.euronews.com/business/2025/12/03/kazakhstan-advances-nuclear-projects-and-research-hubs-to-strengthen-its-energy-future",
+        "description": "The Central Asian nation is leveraging its uranium wealth, cutting-edge research and strategic partnerships to develop nuclear power and medical innovations, charting a path toward carbon neutrality while emerging as a key player in global energy.",
+        "date": "03/12/2025"
     },
     {
         "title": "Japan’s Water Story: a journey through the Hokuriku-Shinetsu region",
@@ -462,100 +342,100 @@
         "date": "01/12/2025"
     },
     {
-        "title": "Kazakhstan joins global fight: 16 days to end gender-based violence",
-        "link": "https://www.euronews.com/culture/2025/12/01/cities-across-kazakhstan-lit-orange-to-raise-awareness-of-violence-against-women",
-        "description": "Landmark buildings across Kazakhstan were lit up in orange to mark the UN's International Day for the Elimination of Violence Against Women.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Central Asia and Azerbaijan: a shared cultural legacy for a shared future",
-        "link": "https://www.euronews.com/culture/2025/12/01/central-asia-and-azerbaijan-a-shared-cultural-legacy-for-a-shared-future",
-        "description": "Culture is the memory of civilisation — a legacy that crosses borders, survives political change, and unites generations and nations.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Tracing the Edo Shogun Roads: Kanto’s highways of heritage and craftsmanship",
-        "link": "https://www.euronews.com/travel/2025/12/01/tracing-the-edo-shogun-roads-kantos-highways-of-heritage-and-craftsmanship",
-        "description": "The Kanto region, defined by the expansive Greater Tokyo Area, is recognised for its dynamic modernity, towering architecture, advanced technology and bustling commerce.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "New investments push Trans-Caspian Corridor into its next phase",
-        "link": "https://www.euronews.com/business/2025/12/01/new-investments-push-trans-caspian-corridor-into-its-next-phase",
-        "description": "At the Tashkent Investors Forum, officials detailed new rail, port, and digital upgrades, stressing that coordinated reforms and harmonised border systems are essential for scaling the corridor.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Central Asia’s education boom takes center stage at Tashkent QS forum",
-        "link": "https://www.euronews.com/2025/12/01/central-asias-education-boom-takes-center-stage-at-qs-forum-in-tashkent",
-        "description": "Leaders from across Central Asia gathered to discuss progress in universities, highlight new partnerships and explore how strengthened cooperation can improve academic quality and research opportunities.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Hong Kong says netting on buildings that caught fire did not meet code",
-        "link": "https://www.euronews.com/2025/12/01/hong-kong-authorities-say-netting-on-buildings-that-caught-fire-did-not-meet-code",
-        "description": "The fire, which broke out on Wednesday, burned through seven of eight apartment towers, home to some 4,600 people, and wasn't fully extinguished until Friday morning.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Reviving the Silk Road: Central Asia tourism surges",
-        "link": "https://www.euronews.com/travel/2025/12/01/from-ancient-trade-to-modern-travel-silk-road-tourism-surges-across-eurasia",
-        "description": "The 30th Tashkent International Tourism Fair highlights Silk Road tourism growth, driven by flights, multi-country routes, local crafts, and AI planning tools.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Hong Kong mourners queue to pay respects after deadly Tai Po fire",
-        "link": "https://www.euronews.com/video/2025/12/01/hong-kong-mourners-queue-to-pay-respects-after-deadly-tai-po-fire",
-        "description": "Thousands of Hong Kong residents formed long queues across Tai Po to pay respects to the victims of the deadly Wang Fuk Court fire, as memorials and tributes continued citywide.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Former UK MP sentenced to prison in Bangladesh corruption trial",
-        "link": "https://www.euronews.com/2025/12/01/british-former-mp-tulip-siddiq-sentenced-to-prison-in-bangladesh-corruption-trial",
-        "description": "In January, Siddiq resigned as a government minister following pressure because of her ties to her aunt.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Inside Uzbekistan’s drive to reclaim its heritage",
-        "link": "https://www.euronews.com/culture/2025/12/01/inside-uzbekistans-drive-to-reclaim-its-heritage",
-        "description": "In central Tashkent, a bold new landmark symbolises Uzbekistan’s spiritual revival.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Indonesia floods cause severe damage to infrastructure",
-        "link": "https://www.euronews.com/video/2025/12/01/indonesia-floods-cause-severe-damage-to-infrastructure",
-        "description": "Floods in East Aceh’s Idi Town have caused major damage to roads and public facilities, leaving residents without electricity, water and internet while emergency aid remains limited.",
-        "date": "01/12/2025"
-    },
-    {
         "title": "",
-        "link": "https://www.euronews.com/health/2025/12/02/orange-juice-found-to-affect-thousands-of-genes-in-immune-cells-study-says",
+        "link": "https://www.euronews.com/business/2025/11/20/expo-2025-ends-with-global-dialogue-on-life-and-sustainability",
         "description": null,
         "date": null
     },
     {
         "title": "",
-        "link": "https://www.euronews.com/2025/12/02/if-europe-wants-to-start-a-war-we-are-ready-now-russias-putin-says",
+        "link": "https://www.euronews.com/business/2025/12/02/europes-defence-landscape-which-countries-spend-the-most",
         "description": null,
         "date": null
     },
     {
         "title": "",
-        "link": "https://www.euronews.com/2025/12/03/turkish-clerk-flees-to-uk-after-stealing-millions-in-gold-and-silver-from-courthouse",
+        "link": "https://www.euronews.com/business/2025/12/04/why-are-european-natural-gas-prices-tumbling-despite-the-cold-winter",
         "description": null,
         "date": null
     },
     {
         "title": "",
-        "link": "https://www.euronews.com/2025/12/03/spain-overwhelmed-by-23-million-citizenship-applications-from-franco-era-descendants",
+        "link": "https://www.euronews.com/business/2025/12/03/a-decade-of-brexit-britain-falls-behind-peers-in-trade-and-growth",
         "description": null,
         "date": null
     },
     {
         "title": "",
-        "link": "https://www.euronews.com/my-europe/2025/12/03/von-der-leyen-pushes-ahead-with-reparations-loan-for-ukraine-as-belgium-maintains-its-oppo",
+        "link": "https://www.euronews.com/business/2025/11/20/ai-powered-methane-tracking-offshore-drones-and-real-time-safety-analytics-revealed-at-adi",
         "description": null,
         "date": null
+    },
+    {
+        "title": "Ai robots in Tokyo showcase future tech advancements",
+        "link": "https://www.euronews.com/video/2025/12/04/ai-powered-robots-showcased-at-tokyo-trade-show",
+        "description": "AI-powered robots are attracting crowds in Tokyo, showcasing the latest in robot technology. Highlights include a humanoid robot performing mock disaster tasks.",
+        "date": "04/12/2025"
+    },
+    {
+        "title": "Euroviews. Europe's new linkage is a dangerous fantasy",
+        "link": "https://www.euronews.com/2025/12/04/europes-new-linkage-is-a-dangerous-fantasy",
+        "description": "The future of European stability lies not in the Middle East, but in Europe’s own willingness to confront the challenges it has allowed to grow unchecked for far too long, MK Ohad Tal writes in an opinion article for Euronews.",
+        "date": "04/12/2025"
+    },
+    {
+        "title": "Five killed in Israeli strike on Gaza after attack injures soldiers",
+        "link": "https://www.euronews.com/2025/12/04/five-killed-in-israeli-strike-on-gaza-in-response-to-attack-on-its-soldiers",
+        "description": "Meanwhile, Israel says it would open up the Rafah border crossing with Egypt, which would allow Palestinians to leave the Strip.",
+        "date": "04/12/2025"
+    },
+    {
+        "title": "Kazakhstan calls on EU to speed up Central Asia investments",
+        "link": "https://www.euronews.com/2025/12/04/kazakhstan-calls-on-eu-to-speed-up-10-billion-central-asia-investments",
+        "description": "The EU and Kazakhstan are celebrating the 10th anniversary of the signing of the Enhanced Cooperation Agreement, with connectivity and critical raw materials as key areas of cooperation.",
+        "date": "04/12/2025"
+    },
+    {
+        "title": "Activist urges Germany to retain Syria asylum amid persecution fears",
+        "link": "https://www.euronews.com/2025/12/04/german-syrian-activist-urges-berlin-to-retain-asylum-among-ongoing-persecution-fears",
+        "description": "German Chancellor Friedrich Merz argues against granting asylum to Syrians after al-Assad's regime fell, but critics warn the country remains unsafe for minorities and women.",
+        "date": "04/12/2025"
+    },
+    {
+        "title": "Macron welcomed in China for talks with Xi on trade ties and the war in Ukraine",
+        "link": "https://www.euronews.com/video/2025/12/04/macron-welcomed-in-china-for-talks-with-xi-on-trade-ties-and-the-war-in-ukraine",
+        "description": "French president Emmanuel Macron was welcomed in Beijing by Chinese president Xi Jinping for discussions focused on trade relations and the conflict in Ukraine.",
+        "date": "04/12/2025"
+    },
+    {
+        "title": "Uzbekistan’s new labour mobility model",
+        "link": "https://www.euronews.com/business/2025/12/04/labour-mobility-reframed-uzbekistans-new-model-for-managed-migration",
+        "description": "With 2 million citizens abroad and €13.9 billion in remittances, Uzbekistan is expanding regulated labour migration, training workers for rising demand in Europe and Asia.",
+        "date": "04/12/2025"
+    },
+    {
+        "title": "Myanmar opium cultivation hits highest level in a decade, UN says",
+        "link": "https://www.euronews.com/2025/12/03/opium-poppy-cultivation-in-myanmar-hits-highest-level-in-a-decade-un-report-says",
+        "description": "There were signs that heroin from Myanmar is reaching markets in Europe previously supplied by Afghanistan, with several seizures over the past year that involved passengers travelling from Southeast Asia to Europe.",
+        "date": "03/12/2025"
+    },
+    {
+        "title": "EU updates asylum guidance for Syrians a year after al-Assad's fall",
+        "link": "https://www.euronews.com/2025/12/03/eu-updates-asylum-guidance-for-syrian-refugees-a-year-after-fall-of-bashar-al-assad",
+        "description": "The number of Syrians requesting asylum dropped significantly from 16,000 in October 2024, before the fall of al-Assad in December, to 3,500 in September 2025.",
+        "date": "03/12/2025"
+    },
+    {
+        "title": "Indonesia flood death toll rises to 702 as search efforts intensify",
+        "link": "https://www.euronews.com/video/2025/12/03/indonesia-flood-death-toll-rises-to-702-as-search-efforts-intensify",
+        "description": "Indonesia’s flood and landslide disaster on Sumatra has left at least 702 people dead and hundreds missing, with severe weather from a tropical cyclone worsening the crisis.",
+        "date": "03/12/2025"
+    },
+    {
+        "title": "Kazakhstan advances nuclear projects and research hubs for energy",
+        "link": "https://www.euronews.com/business/2025/12/03/kazakhstan-advances-nuclear-projects-and-research-hubs-to-strengthen-its-energy-future",
+        "description": "The Central Asian nation is leveraging its uranium wealth, cutting-edge research and strategic partnerships to develop nuclear power and medical innovations, charting a path toward carbon neutrality while emerging as a key player in global energy.",
+        "date": "03/12/2025"
     },
     {
         "title": "Japan’s Water Story: a journey through the Hokuriku-Shinetsu region",
@@ -648,100 +528,100 @@
         "date": "01/12/2025"
     },
     {
-        "title": "Kazakhstan joins global fight: 16 days to end gender-based violence",
-        "link": "https://www.euronews.com/culture/2025/12/01/cities-across-kazakhstan-lit-orange-to-raise-awareness-of-violence-against-women",
-        "description": "Landmark buildings across Kazakhstan were lit up in orange to mark the UN's International Day for the Elimination of Violence Against Women.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Central Asia and Azerbaijan: a shared cultural legacy for a shared future",
-        "link": "https://www.euronews.com/culture/2025/12/01/central-asia-and-azerbaijan-a-shared-cultural-legacy-for-a-shared-future",
-        "description": "Culture is the memory of civilisation — a legacy that crosses borders, survives political change, and unites generations and nations.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Tracing the Edo Shogun Roads: Kanto’s highways of heritage and craftsmanship",
-        "link": "https://www.euronews.com/travel/2025/12/01/tracing-the-edo-shogun-roads-kantos-highways-of-heritage-and-craftsmanship",
-        "description": "The Kanto region, defined by the expansive Greater Tokyo Area, is recognised for its dynamic modernity, towering architecture, advanced technology and bustling commerce.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "New investments push Trans-Caspian Corridor into its next phase",
-        "link": "https://www.euronews.com/business/2025/12/01/new-investments-push-trans-caspian-corridor-into-its-next-phase",
-        "description": "At the Tashkent Investors Forum, officials detailed new rail, port, and digital upgrades, stressing that coordinated reforms and harmonised border systems are essential for scaling the corridor.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Central Asia’s education boom takes center stage at Tashkent QS forum",
-        "link": "https://www.euronews.com/2025/12/01/central-asias-education-boom-takes-center-stage-at-qs-forum-in-tashkent",
-        "description": "Leaders from across Central Asia gathered to discuss progress in universities, highlight new partnerships and explore how strengthened cooperation can improve academic quality and research opportunities.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Hong Kong says netting on buildings that caught fire did not meet code",
-        "link": "https://www.euronews.com/2025/12/01/hong-kong-authorities-say-netting-on-buildings-that-caught-fire-did-not-meet-code",
-        "description": "The fire, which broke out on Wednesday, burned through seven of eight apartment towers, home to some 4,600 people, and wasn't fully extinguished until Friday morning.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Reviving the Silk Road: Central Asia tourism surges",
-        "link": "https://www.euronews.com/travel/2025/12/01/from-ancient-trade-to-modern-travel-silk-road-tourism-surges-across-eurasia",
-        "description": "The 30th Tashkent International Tourism Fair highlights Silk Road tourism growth, driven by flights, multi-country routes, local crafts, and AI planning tools.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Hong Kong mourners queue to pay respects after deadly Tai Po fire",
-        "link": "https://www.euronews.com/video/2025/12/01/hong-kong-mourners-queue-to-pay-respects-after-deadly-tai-po-fire",
-        "description": "Thousands of Hong Kong residents formed long queues across Tai Po to pay respects to the victims of the deadly Wang Fuk Court fire, as memorials and tributes continued citywide.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Former UK MP sentenced to prison in Bangladesh corruption trial",
-        "link": "https://www.euronews.com/2025/12/01/british-former-mp-tulip-siddiq-sentenced-to-prison-in-bangladesh-corruption-trial",
-        "description": "In January, Siddiq resigned as a government minister following pressure because of her ties to her aunt.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Inside Uzbekistan’s drive to reclaim its heritage",
-        "link": "https://www.euronews.com/culture/2025/12/01/inside-uzbekistans-drive-to-reclaim-its-heritage",
-        "description": "In central Tashkent, a bold new landmark symbolises Uzbekistan’s spiritual revival.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Indonesia floods cause severe damage to infrastructure",
-        "link": "https://www.euronews.com/video/2025/12/01/indonesia-floods-cause-severe-damage-to-infrastructure",
-        "description": "Floods in East Aceh’s Idi Town have caused major damage to roads and public facilities, leaving residents without electricity, water and internet while emergency aid remains limited.",
-        "date": "01/12/2025"
-    },
-    {
         "title": "",
-        "link": "https://www.euronews.com/health/2025/12/02/orange-juice-found-to-affect-thousands-of-genes-in-immune-cells-study-says",
+        "link": "https://www.euronews.com/business/2025/11/20/expo-2025-ends-with-global-dialogue-on-life-and-sustainability",
         "description": null,
         "date": null
     },
     {
         "title": "",
-        "link": "https://www.euronews.com/2025/12/02/if-europe-wants-to-start-a-war-we-are-ready-now-russias-putin-says",
+        "link": "https://www.euronews.com/business/2025/12/02/europes-defence-landscape-which-countries-spend-the-most",
         "description": null,
         "date": null
     },
     {
         "title": "",
-        "link": "https://www.euronews.com/2025/12/03/turkish-clerk-flees-to-uk-after-stealing-millions-in-gold-and-silver-from-courthouse",
+        "link": "https://www.euronews.com/business/2025/12/04/why-are-european-natural-gas-prices-tumbling-despite-the-cold-winter",
         "description": null,
         "date": null
     },
     {
         "title": "",
-        "link": "https://www.euronews.com/2025/12/03/spain-overwhelmed-by-23-million-citizenship-applications-from-franco-era-descendants",
+        "link": "https://www.euronews.com/business/2025/12/03/a-decade-of-brexit-britain-falls-behind-peers-in-trade-and-growth",
         "description": null,
         "date": null
     },
     {
         "title": "",
-        "link": "https://www.euronews.com/my-europe/2025/12/03/von-der-leyen-pushes-ahead-with-reparations-loan-for-ukraine-as-belgium-maintains-its-oppo",
+        "link": "https://www.euronews.com/business/2025/11/20/ai-powered-methane-tracking-offshore-drones-and-real-time-safety-analytics-revealed-at-adi",
         "description": null,
         "date": null
+    },
+    {
+        "title": "Ai robots in Tokyo showcase future tech advancements",
+        "link": "https://www.euronews.com/video/2025/12/04/ai-powered-robots-showcased-at-tokyo-trade-show",
+        "description": "AI-powered robots are attracting crowds in Tokyo, showcasing the latest in robot technology. Highlights include a humanoid robot performing mock disaster tasks.",
+        "date": "04/12/2025"
+    },
+    {
+        "title": "Euroviews. Europe's new linkage is a dangerous fantasy",
+        "link": "https://www.euronews.com/2025/12/04/europes-new-linkage-is-a-dangerous-fantasy",
+        "description": "The future of European stability lies not in the Middle East, but in Europe’s own willingness to confront the challenges it has allowed to grow unchecked for far too long, MK Ohad Tal writes in an opinion article for Euronews.",
+        "date": "04/12/2025"
+    },
+    {
+        "title": "Five killed in Israeli strike on Gaza after attack injures soldiers",
+        "link": "https://www.euronews.com/2025/12/04/five-killed-in-israeli-strike-on-gaza-in-response-to-attack-on-its-soldiers",
+        "description": "Meanwhile, Israel says it would open up the Rafah border crossing with Egypt, which would allow Palestinians to leave the Strip.",
+        "date": "04/12/2025"
+    },
+    {
+        "title": "Kazakhstan calls on EU to speed up Central Asia investments",
+        "link": "https://www.euronews.com/2025/12/04/kazakhstan-calls-on-eu-to-speed-up-10-billion-central-asia-investments",
+        "description": "The EU and Kazakhstan are celebrating the 10th anniversary of the signing of the Enhanced Cooperation Agreement, with connectivity and critical raw materials as key areas of cooperation.",
+        "date": "04/12/2025"
+    },
+    {
+        "title": "Activist urges Germany to retain Syria asylum amid persecution fears",
+        "link": "https://www.euronews.com/2025/12/04/german-syrian-activist-urges-berlin-to-retain-asylum-among-ongoing-persecution-fears",
+        "description": "German Chancellor Friedrich Merz argues against granting asylum to Syrians after al-Assad's regime fell, but critics warn the country remains unsafe for minorities and women.",
+        "date": "04/12/2025"
+    },
+    {
+        "title": "Macron welcomed in China for talks with Xi on trade ties and the war in Ukraine",
+        "link": "https://www.euronews.com/video/2025/12/04/macron-welcomed-in-china-for-talks-with-xi-on-trade-ties-and-the-war-in-ukraine",
+        "description": "French president Emmanuel Macron was welcomed in Beijing by Chinese president Xi Jinping for discussions focused on trade relations and the conflict in Ukraine.",
+        "date": "04/12/2025"
+    },
+    {
+        "title": "Uzbekistan’s new labour mobility model",
+        "link": "https://www.euronews.com/business/2025/12/04/labour-mobility-reframed-uzbekistans-new-model-for-managed-migration",
+        "description": "With 2 million citizens abroad and €13.9 billion in remittances, Uzbekistan is expanding regulated labour migration, training workers for rising demand in Europe and Asia.",
+        "date": "04/12/2025"
+    },
+    {
+        "title": "Myanmar opium cultivation hits highest level in a decade, UN says",
+        "link": "https://www.euronews.com/2025/12/03/opium-poppy-cultivation-in-myanmar-hits-highest-level-in-a-decade-un-report-says",
+        "description": "There were signs that heroin from Myanmar is reaching markets in Europe previously supplied by Afghanistan, with several seizures over the past year that involved passengers travelling from Southeast Asia to Europe.",
+        "date": "03/12/2025"
+    },
+    {
+        "title": "EU updates asylum guidance for Syrians a year after al-Assad's fall",
+        "link": "https://www.euronews.com/2025/12/03/eu-updates-asylum-guidance-for-syrian-refugees-a-year-after-fall-of-bashar-al-assad",
+        "description": "The number of Syrians requesting asylum dropped significantly from 16,000 in October 2024, before the fall of al-Assad in December, to 3,500 in September 2025.",
+        "date": "03/12/2025"
+    },
+    {
+        "title": "Indonesia flood death toll rises to 702 as search efforts intensify",
+        "link": "https://www.euronews.com/video/2025/12/03/indonesia-flood-death-toll-rises-to-702-as-search-efforts-intensify",
+        "description": "Indonesia’s flood and landslide disaster on Sumatra has left at least 702 people dead and hundreds missing, with severe weather from a tropical cyclone worsening the crisis.",
+        "date": "03/12/2025"
+    },
+    {
+        "title": "Kazakhstan advances nuclear projects and research hubs for energy",
+        "link": "https://www.euronews.com/business/2025/12/03/kazakhstan-advances-nuclear-projects-and-research-hubs-to-strengthen-its-energy-future",
+        "description": "The Central Asian nation is leveraging its uranium wealth, cutting-edge research and strategic partnerships to develop nuclear power and medical innovations, charting a path toward carbon neutrality while emerging as a key player in global energy.",
+        "date": "03/12/2025"
     },
     {
         "title": "Japan’s Water Story: a journey through the Hokuriku-Shinetsu region",
@@ -834,98 +714,218 @@
         "date": "01/12/2025"
     },
     {
-        "title": "Kazakhstan joins global fight: 16 days to end gender-based violence",
-        "link": "https://www.euronews.com/culture/2025/12/01/cities-across-kazakhstan-lit-orange-to-raise-awareness-of-violence-against-women",
-        "description": "Landmark buildings across Kazakhstan were lit up in orange to mark the UN's International Day for the Elimination of Violence Against Women.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Central Asia and Azerbaijan: a shared cultural legacy for a shared future",
-        "link": "https://www.euronews.com/culture/2025/12/01/central-asia-and-azerbaijan-a-shared-cultural-legacy-for-a-shared-future",
-        "description": "Culture is the memory of civilisation — a legacy that crosses borders, survives political change, and unites generations and nations.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Tracing the Edo Shogun Roads: Kanto’s highways of heritage and craftsmanship",
-        "link": "https://www.euronews.com/travel/2025/12/01/tracing-the-edo-shogun-roads-kantos-highways-of-heritage-and-craftsmanship",
-        "description": "The Kanto region, defined by the expansive Greater Tokyo Area, is recognised for its dynamic modernity, towering architecture, advanced technology and bustling commerce.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "New investments push Trans-Caspian Corridor into its next phase",
-        "link": "https://www.euronews.com/business/2025/12/01/new-investments-push-trans-caspian-corridor-into-its-next-phase",
-        "description": "At the Tashkent Investors Forum, officials detailed new rail, port, and digital upgrades, stressing that coordinated reforms and harmonised border systems are essential for scaling the corridor.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Central Asia’s education boom takes center stage at Tashkent QS forum",
-        "link": "https://www.euronews.com/2025/12/01/central-asias-education-boom-takes-center-stage-at-qs-forum-in-tashkent",
-        "description": "Leaders from across Central Asia gathered to discuss progress in universities, highlight new partnerships and explore how strengthened cooperation can improve academic quality and research opportunities.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Hong Kong says netting on buildings that caught fire did not meet code",
-        "link": "https://www.euronews.com/2025/12/01/hong-kong-authorities-say-netting-on-buildings-that-caught-fire-did-not-meet-code",
-        "description": "The fire, which broke out on Wednesday, burned through seven of eight apartment towers, home to some 4,600 people, and wasn't fully extinguished until Friday morning.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Reviving the Silk Road: Central Asia tourism surges",
-        "link": "https://www.euronews.com/travel/2025/12/01/from-ancient-trade-to-modern-travel-silk-road-tourism-surges-across-eurasia",
-        "description": "The 30th Tashkent International Tourism Fair highlights Silk Road tourism growth, driven by flights, multi-country routes, local crafts, and AI planning tools.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Hong Kong mourners queue to pay respects after deadly Tai Po fire",
-        "link": "https://www.euronews.com/video/2025/12/01/hong-kong-mourners-queue-to-pay-respects-after-deadly-tai-po-fire",
-        "description": "Thousands of Hong Kong residents formed long queues across Tai Po to pay respects to the victims of the deadly Wang Fuk Court fire, as memorials and tributes continued citywide.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Former UK MP sentenced to prison in Bangladesh corruption trial",
-        "link": "https://www.euronews.com/2025/12/01/british-former-mp-tulip-siddiq-sentenced-to-prison-in-bangladesh-corruption-trial",
-        "description": "In January, Siddiq resigned as a government minister following pressure because of her ties to her aunt.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Inside Uzbekistan’s drive to reclaim its heritage",
-        "link": "https://www.euronews.com/culture/2025/12/01/inside-uzbekistans-drive-to-reclaim-its-heritage",
-        "description": "In central Tashkent, a bold new landmark symbolises Uzbekistan’s spiritual revival.",
-        "date": "01/12/2025"
-    },
-    {
-        "title": "Indonesia floods cause severe damage to infrastructure",
-        "link": "https://www.euronews.com/video/2025/12/01/indonesia-floods-cause-severe-damage-to-infrastructure",
-        "description": "Floods in East Aceh’s Idi Town have caused major damage to roads and public facilities, leaving residents without electricity, water and internet while emergency aid remains limited.",
-        "date": "01/12/2025"
-    },
-    {
         "title": "",
-        "link": "https://www.euronews.com/health/2025/12/02/orange-juice-found-to-affect-thousands-of-genes-in-immune-cells-study-says",
+        "link": "https://www.euronews.com/business/2025/11/20/expo-2025-ends-with-global-dialogue-on-life-and-sustainability",
         "description": null,
         "date": null
     },
     {
         "title": "",
-        "link": "https://www.euronews.com/2025/12/02/if-europe-wants-to-start-a-war-we-are-ready-now-russias-putin-says",
+        "link": "https://www.euronews.com/business/2025/12/02/europes-defence-landscape-which-countries-spend-the-most",
         "description": null,
         "date": null
     },
     {
         "title": "",
-        "link": "https://www.euronews.com/2025/12/03/turkish-clerk-flees-to-uk-after-stealing-millions-in-gold-and-silver-from-courthouse",
+        "link": "https://www.euronews.com/business/2025/12/04/why-are-european-natural-gas-prices-tumbling-despite-the-cold-winter",
         "description": null,
         "date": null
     },
     {
         "title": "",
-        "link": "https://www.euronews.com/2025/12/03/spain-overwhelmed-by-23-million-citizenship-applications-from-franco-era-descendants",
+        "link": "https://www.euronews.com/business/2025/12/03/a-decade-of-brexit-britain-falls-behind-peers-in-trade-and-growth",
         "description": null,
         "date": null
     },
     {
         "title": "",
-        "link": "https://www.euronews.com/my-europe/2025/12/03/von-der-leyen-pushes-ahead-with-reparations-loan-for-ukraine-as-belgium-maintains-its-oppo",
+        "link": "https://www.euronews.com/business/2025/11/20/ai-powered-methane-tracking-offshore-drones-and-real-time-safety-analytics-revealed-at-adi",
+        "description": null,
+        "date": null
+    },
+    {
+        "title": "Ai robots in Tokyo showcase future tech advancements",
+        "link": "https://www.euronews.com/video/2025/12/04/ai-powered-robots-showcased-at-tokyo-trade-show",
+        "description": "AI-powered robots are attracting crowds in Tokyo, showcasing the latest in robot technology. Highlights include a humanoid robot performing mock disaster tasks.",
+        "date": "04/12/2025"
+    },
+    {
+        "title": "Euroviews. Europe's new linkage is a dangerous fantasy",
+        "link": "https://www.euronews.com/2025/12/04/europes-new-linkage-is-a-dangerous-fantasy",
+        "description": "The future of European stability lies not in the Middle East, but in Europe’s own willingness to confront the challenges it has allowed to grow unchecked for far too long, MK Ohad Tal writes in an opinion article for Euronews.",
+        "date": "04/12/2025"
+    },
+    {
+        "title": "Five killed in Israeli strike on Gaza after attack injures soldiers",
+        "link": "https://www.euronews.com/2025/12/04/five-killed-in-israeli-strike-on-gaza-in-response-to-attack-on-its-soldiers",
+        "description": "Meanwhile, Israel says it would open up the Rafah border crossing with Egypt, which would allow Palestinians to leave the Strip.",
+        "date": "04/12/2025"
+    },
+    {
+        "title": "Kazakhstan calls on EU to speed up Central Asia investments",
+        "link": "https://www.euronews.com/2025/12/04/kazakhstan-calls-on-eu-to-speed-up-10-billion-central-asia-investments",
+        "description": "The EU and Kazakhstan are celebrating the 10th anniversary of the signing of the Enhanced Cooperation Agreement, with connectivity and critical raw materials as key areas of cooperation.",
+        "date": "04/12/2025"
+    },
+    {
+        "title": "Activist urges Germany to retain Syria asylum amid persecution fears",
+        "link": "https://www.euronews.com/2025/12/04/german-syrian-activist-urges-berlin-to-retain-asylum-among-ongoing-persecution-fears",
+        "description": "German Chancellor Friedrich Merz argues against granting asylum to Syrians after al-Assad's regime fell, but critics warn the country remains unsafe for minorities and women.",
+        "date": "04/12/2025"
+    },
+    {
+        "title": "Macron welcomed in China for talks with Xi on trade ties and the war in Ukraine",
+        "link": "https://www.euronews.com/video/2025/12/04/macron-welcomed-in-china-for-talks-with-xi-on-trade-ties-and-the-war-in-ukraine",
+        "description": "French president Emmanuel Macron was welcomed in Beijing by Chinese president Xi Jinping for discussions focused on trade relations and the conflict in Ukraine.",
+        "date": "04/12/2025"
+    },
+    {
+        "title": "Uzbekistan’s new labour mobility model",
+        "link": "https://www.euronews.com/business/2025/12/04/labour-mobility-reframed-uzbekistans-new-model-for-managed-migration",
+        "description": "With 2 million citizens abroad and €13.9 billion in remittances, Uzbekistan is expanding regulated labour migration, training workers for rising demand in Europe and Asia.",
+        "date": "04/12/2025"
+    },
+    {
+        "title": "Myanmar opium cultivation hits highest level in a decade, UN says",
+        "link": "https://www.euronews.com/2025/12/03/opium-poppy-cultivation-in-myanmar-hits-highest-level-in-a-decade-un-report-says",
+        "description": "There were signs that heroin from Myanmar is reaching markets in Europe previously supplied by Afghanistan, with several seizures over the past year that involved passengers travelling from Southeast Asia to Europe.",
+        "date": "03/12/2025"
+    },
+    {
+        "title": "EU updates asylum guidance for Syrians a year after al-Assad's fall",
+        "link": "https://www.euronews.com/2025/12/03/eu-updates-asylum-guidance-for-syrian-refugees-a-year-after-fall-of-bashar-al-assad",
+        "description": "The number of Syrians requesting asylum dropped significantly from 16,000 in October 2024, before the fall of al-Assad in December, to 3,500 in September 2025.",
+        "date": "03/12/2025"
+    },
+    {
+        "title": "Indonesia flood death toll rises to 702 as search efforts intensify",
+        "link": "https://www.euronews.com/video/2025/12/03/indonesia-flood-death-toll-rises-to-702-as-search-efforts-intensify",
+        "description": "Indonesia’s flood and landslide disaster on Sumatra has left at least 702 people dead and hundreds missing, with severe weather from a tropical cyclone worsening the crisis.",
+        "date": "03/12/2025"
+    },
+    {
+        "title": "Kazakhstan advances nuclear projects and research hubs for energy",
+        "link": "https://www.euronews.com/business/2025/12/03/kazakhstan-advances-nuclear-projects-and-research-hubs-to-strengthen-its-energy-future",
+        "description": "The Central Asian nation is leveraging its uranium wealth, cutting-edge research and strategic partnerships to develop nuclear power and medical innovations, charting a path toward carbon neutrality while emerging as a key player in global energy.",
+        "date": "03/12/2025"
+    },
+    {
+        "title": "Japan’s Water Story: a journey through the Hokuriku-Shinetsu region",
+        "link": "https://www.euronews.com/travel/2025/12/03/japans-water-story-a-journey-through-the-hokuriku-shinetsu-region",
+        "description": "Water is not just a resource in Japan’s Hokuriku-Shinetsu region; it is the very foundation of the land, its culture and the enduring resilience of its people.",
+        "date": "03/12/2025"
+    },
+    {
+        "title": "‘Human-made crisis’: How climate change has affected Asia’s floods",
+        "link": "https://www.euronews.com/green/2025/12/03/monsoon-season-or-climate-disaster-whats-driving-asias-flash-floods-as-death-toll-hits-130",
+        "description": "More than 1,400 people have been killed following record-breaking rainfall and storm surges across parts of Asia.",
+        "date": "03/12/2025"
+    },
+    {
+        "title": "Deep-sea search to resume for lost Malaysia Airlines flight 370",
+        "link": "https://www.euronews.com/2025/12/03/malaysian-authorities-announce-deep-sea-search-for-mh370-will-resume-30-december",
+        "description": "Malaysia’s transport ministry announced the restart of the deep-sea search for Malaysia Airlines Flight 370 on 30 December, raising hopes of finally finding the jet that vanished in 2014.",
+        "date": "03/12/2025"
+    },
+    {
+        "title": "Afghanistan's Taliban carry out public execution in sports stadium",
+        "link": "https://www.euronews.com/2025/12/02/afghanistans-taliban-rulers-carry-out-public-execution-in-sports-stadium",
+        "description": "The man had been convicted of killing 13 members of a family, including children, and was executed by one of their relatives, according to police.",
+        "date": "02/12/2025"
+    },
+    {
+        "title": "China taxes condoms for first time in 30 years to boost births",
+        "link": "https://www.euronews.com/business/2025/12/02/china-to-tax-condoms-for-first-time-in-30-years-as-demographic-crisis-deepens",
+        "description": "The removal of a tax exemption reflects Beijing’s concerns over ageing, labour shortages, and slowing long-term growth.",
+        "date": "02/12/2025"
+    },
+    {
+        "title": "Uzbekistan’s Silk Road heritage",
+        "link": "https://www.euronews.com/travel/2025/12/02/from-samarkand-to-khiva-uzbekistans-unesco-landmarks-trace-the-story-of-the-silk-road",
+        "description": "Once a crossroads of empires and ideas, Uzbekistan remains one of the best-preserved witnesses to the Silk Road’s influence on architecture, learning and spiritual life.",
+        "date": "02/12/2025"
+    },
+    {
+        "title": "Natural History Museum Abu Dhabi launches with immersive exhibits spanning Earth and space history",
+        "link": "https://www.euronews.com/culture/2025/12/02/natural-history-museum-abu-dhabi-launches-with-immersive-exhibits-spanning-earth-and-space",
+        "description": "Abu Dhabi has opened the Middle East’s largest Natural History Museum, unveiling an ambitious journey through 13 billion years of Earth and cosmic history with rare fossils, immersive experiences and major scientific collections.",
+        "date": "02/12/2025"
+    },
+    {
+        "title": "Japan: Record-price yellowtail sells for over 22,000 euros at Ishikawa’s first winter auction",
+        "link": "https://www.euronews.com/video/2025/12/02/japan-record-price-yellowtail-sells-for-over-22000-euros-at-ishikawas-first-winter-auction",
+        "description": "A Kirameki-branded winter yellowtail from quake-hit Noto fetched a record-tying 4 million yen at Ishikawa Prefecture’s first auction of the season.",
+        "date": "02/12/2025"
+    },
+    {
+        "title": "Doha Forum 2025 aims to make justice more than a promise",
+        "link": "https://www.euronews.com/2025/12/02/doha-forum-2025-aims-to-make-justice-and-global-cooperation-more-than-a-promise",
+        "description": "The event in Qatar's capital is set to focus on turning commitments into impactful policies through open discussions on urgent issues, organisers said.",
+        "date": "02/12/2025"
+    },
+    {
+        "title": "Israel plans to deploy Iron Beam laser defence system by year-end",
+        "link": "https://www.euronews.com/2025/12/02/israels-new-iron-beam-laser-system-passes-missile-and-drone-intercept-tests",
+        "description": "The first operational high-power laser beam will be deployed this year, providing a cost-effective and rapid solution for drones and unmanned aerial vehicles.",
+        "date": "02/12/2025"
+    },
+    {
+        "title": "Natural History Museum Abu Dhabi promises 'nature's greatest story'",
+        "link": "https://www.euronews.com/culture/2025/12/02/natures-greatest-story-natural-history-museum-abu-dhabi-celebrates-historic-opening",
+        "description": "The National History Museum Abu Dhabi is preparing to open its doors as the the latest addition to the Saadiyat Cultural District which is already home to Louvre Abu Dhabi, teamLab Phenomena Abu Dhabi and Manarat Al Saadiyat.",
+        "date": "02/12/2025"
+    },
+    {
+        "title": "Sri Lanka: Aerial video shows extent of flooding with over 365 dead and 367 missing",
+        "link": "https://www.euronews.com/video/2025/12/02/sri-lanka-aerial-video-shows-extent-of-flooding-with-over-365-dead-and-367-missing",
+        "description": "Aerial footage shows severe flooding across Sri Lanka, where more than 365 people have died and authorities continue searching for hundreds still missing.",
+        "date": "02/12/2025"
+    },
+    {
+        "title": "Samarkand CITES summit showcases tech to save endangered species",
+        "link": "https://www.euronews.com/green/2025/12/02/ai-and-drones-lead-global-fight-for-wildlife-in-samarkand-talks",
+        "description": "Experts at the 20th CITES Conference reveal wildlife crime worth up to €22B annually, putting 40,000+ species at risk and boosting tech monitoring efforts.",
+        "date": "02/12/2025"
+    },
+    {
+        "title": "Pope Leo XIV urges unity and peace at interfaith gathering in Lebanon",
+        "link": "https://www.euronews.com/2025/12/02/pope-calls-for-divine-gift-of-peacein-meeting-with-lebanons-christian-and-muslim-leaders",
+        "description": "The pontiff's message emphasised the importance of Lebanon and its Christian population to the Catholic Church.",
+        "date": "02/12/2025"
+    },
+    {
+        "title": "Arab Cup opens in Doha as Palestine claim win against hosts",
+        "link": "https://www.euronews.com/2025/12/01/arab-cup-kicks-off-in-doha-after-dazzling-opening-ceremony-as-palestine-beat-hosts-qatar",
+        "description": "The FIFA Arab Cup kicked off in thrilling fashion as Palestine defeated hosts Qatar with a stoppage-time winner, following an earlier Group A match in which Syria stunned Tunisia.",
+        "date": "01/12/2025"
+    },
+    {
+        "title": "",
+        "link": "https://www.euronews.com/business/2025/11/20/expo-2025-ends-with-global-dialogue-on-life-and-sustainability",
+        "description": null,
+        "date": null
+    },
+    {
+        "title": "",
+        "link": "https://www.euronews.com/business/2025/12/02/europes-defence-landscape-which-countries-spend-the-most",
+        "description": null,
+        "date": null
+    },
+    {
+        "title": "",
+        "link": "https://www.euronews.com/business/2025/12/04/why-are-european-natural-gas-prices-tumbling-despite-the-cold-winter",
+        "description": null,
+        "date": null
+    },
+    {
+        "title": "",
+        "link": "https://www.euronews.com/business/2025/12/03/a-decade-of-brexit-britain-falls-behind-peers-in-trade-and-growth",
+        "description": null,
+        "date": null
+    },
+    {
+        "title": "",
+        "link": "https://www.euronews.com/business/2025/11/20/ai-powered-methane-tracking-offshore-drones-and-real-time-safety-analytics-revealed-at-adi",
         "description": null,
         "date": null
     }

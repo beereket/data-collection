@@ -1,0 +1,5 @@
+{"timestamp":"2025-12-04T15:59:27.007006","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-12-04T15:59:27.013983","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_sis2.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-04T15:59:30.717650Z","level":"error","event":"2025-12-04 15:59:30,715 INFO project_api_to_dwh Sent success notification to Telegram.","chan":"stderr","logger":"task"}
+{"timestamp":"2025-12-04T15:59:30.717583","level":"info","event":"Sent success notification to Telegram.","logger":"project_api_to_dwh"}
+{"timestamp":"2025-12-04T15:59:30.717816","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
